@@ -1,0 +1,1415 @@
+[
+    {
+        "name": "AMC.34 YR",
+        "type": "Land",
+        "nation": "France",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/a/ac/GarageImage_AMC.34_YR.jpg/500px-GarageImage_AMC.34_YR.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "H.35",
+        "type": "Land",
+        "nation": "France",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/2/2e/GarageImage_H.35.jpg/500px-GarageImage_H.35.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "FCM.36",
+        "type": "Land",
+        "nation": "France",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/c/c0/GarageImage_FCM.36.jpg/500px-GarageImage_FCM.36.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "P.7.T AA",
+        "type": "Land",
+        "nation": "France",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/8/8e/GarageImage_P.7.T_AA.jpg/500px-GarageImage_P.7.T_AA.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "AMR.35 ZT3",
+        "type": "Land",
+        "nation": "France",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/4/4c/GarageImage_AMR.35_ZT3.jpg/500px-GarageImage_AMR.35_ZT3.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "AMD.35",
+        "type": "Land",
+        "nation": "France",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/f/f2/GarageImage_AMD.35.jpg/500px-GarageImage_AMD.35.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "H.39",
+        "type": "Land",
+        "nation": "France",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/e/e0/GarageImage_H.39.jpg/500px-GarageImage_H.39.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "R.35 (SA38)",
+        "type": "Land",
+        "nation": "France",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/2/2f/GarageImage_R.35_%28SA38%29.jpg/500px-GarageImage_R.35_%28SA38%29.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Lorraine 37L",
+        "type": "Land",
+        "nation": "France",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/f/f5/GarageImage_Lorraine_37L.jpg/500px-GarageImage_Lorraine_37L.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "AMC.35 (ACG.1)",
+        "type": "Land",
+        "nation": "France",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/2/25/GarageImage_AMC.35_%28ACG.1%29.jpg/500px-GarageImage_AMC.35_%28ACG.1%29.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "S.35",
+        "type": "Land",
+        "nation": "France",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/0/06/GarageImage_S.35.jpg/500px-GarageImage_S.35.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "D2",
+        "type": "Land",
+        "nation": "France",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/1/1d/GarageImage_D2.jpg/500px-GarageImage_D2.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "SAu 40",
+        "type": "Land",
+        "nation": "France",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/7/78/GarageImage_SAu_40.jpg/500px-GarageImage_SAu_40.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "D.371",
+        "type": "Air",
+        "nation": "France",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/8/85/GarageImage_D.371.jpg/500px-GarageImage_D.371.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "D.373",
+        "type": "Air",
+        "nation": "France",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/8/85/GarageImage_D.373.jpg/500px-GarageImage_D.373.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "D.500",
+        "type": "Air",
+        "nation": "France",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/e/ee/GarageImage_D.500.jpg/500px-GarageImage_D.500.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "D.501",
+        "type": "Air",
+        "nation": "France",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/7/75/GarageImage_D.501.jpg/500px-GarageImage_D.501.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "V-156-F",
+        "type": "Air",
+        "nation": "France",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/f/f2/GarageImage_V-156-F.jpg/500px-GarageImage_V-156-F.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Potez 633",
+        "type": "Air",
+        "nation": "France",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/d/d2/GarageImage_Potez_633.jpg/500px-GarageImage_Potez_633.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "C.R.714",
+        "type": "Air",
+        "nation": "France",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/f/f6/GarageImage_C.R.714.jpg/500px-GarageImage_C.R.714.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "H-75A-1",
+        "type": "Air",
+        "nation": "France",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/5/57/GarageImage_H-75A-1.jpg/500px-GarageImage_H-75A-1.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "H-75A-4",
+        "type": "Air",
+        "nation": "France",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/e/ef/GarageImage_H-75A-4.jpg/500px-GarageImage_H-75A-4.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Br.693AB2",
+        "type": "Air",
+        "nation": "France",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/1/11/GarageImage_Br.693AB2.jpg/500px-GarageImage_Br.693AB2.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "F.222.2",
+        "type": "Air",
+        "nation": "France",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/2/27/GarageImage_F.222.2.jpg/500px-GarageImage_F.222.2.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "M.S.405C1",
+        "type": "Air",
+        "nation": "France",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/6/66/GarageImage_M.S.405C1.jpg/500px-GarageImage_M.S.405C1.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "M.S.406C1",
+        "type": "Air",
+        "nation": "France",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/3/3d/GarageImage_M.S.406C1.jpg/500px-GarageImage_M.S.406C1.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Martin 167-A3",
+        "type": "Air",
+        "nation": "France",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/4/4b/GarageImage_Martin_167-A3.jpg/500px-GarageImage_Martin_167-A3.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "M.B.174A-3",
+        "type": "Air",
+        "nation": "France",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/6/6c/GarageImage_M.B.174A-3.jpg/500px-GarageImage_M.B.174A-3.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Bourrasque",
+        "type": "Sea",
+        "nation": "France",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/c/cb/GarageImage_Bourrasque.jpg/500px-GarageImage_Bourrasque.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Leopard",
+        "type": "Sea",
+        "nation": "France",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/6/6d/GarageImage_Leopard_%28France%29.jpg/500px-GarageImage_Leopard_%28France%29.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Chacal",
+        "type": "Sea",
+        "nation": "France",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/c/cf/GarageImage_Chacal.jpg/500px-GarageImage_Chacal.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "La Combattante",
+        "type": "Sea",
+        "nation": "France",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/8/80/GarageImage_La_Combattante.jpg/500px-GarageImage_La_Combattante.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Crusader Mk.II",
+        "type": "Land",
+        "nation": "France",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/8/87/GarageImage_Crusader_Mk.II_%28France%29.jpg/500px-GarageImage_Crusader_Mk.II_%28France%29.jpg",
+        "captured": true,
+        "subNation": ""
+    },
+    {
+        "name": "M3A3 Stuart",
+        "type": "Land",
+        "nation": "France",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/1/1b/GarageImage_M3A3_Stuart_%28France%29.jpg/500px-GarageImage_M3A3_Stuart_%28France%29.jpg",
+        "captured": true,
+        "subNation": ""
+    },
+    {
+        "name": "B1 bis",
+        "type": "Land",
+        "nation": "France",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/8/85/GarageImage_B1_bis.jpg/500px-GarageImage_B1_bis.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "2C",
+        "type": "Land",
+        "nation": "France",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/c/cb/GarageImage_2C.jpg/500px-GarageImage_2C.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "CCKW 353 AA",
+        "type": "Land",
+        "nation": "France",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/6/6b/GarageImage_CCKW_353_AA.jpg/500px-GarageImage_CCKW_353_AA.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "M4A3 (105)",
+        "type": "Land",
+        "nation": "France",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/5/51/GarageImage_M4A3_%28105%29_%28France%29.jpg/500px-GarageImage_M4A3_%28105%29_%28France%29.jpg",
+        "captured": true,
+        "subNation": ""
+    },
+    {
+        "name": "M4A1",
+        "type": "Land",
+        "nation": "France",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/d/dd/GarageImage_M4A1_%28France%29.jpg/500px-GarageImage_M4A1_%28France%29.jpg",
+        "captured": true,
+        "subNation": ""
+    },
+    {
+        "name": "M10 GMC",
+        "type": "Land",
+        "nation": "France",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/f/f1/GarageImage_M10_GMC_%28France%29.jpg/500px-GarageImage_M10_GMC_%28France%29.jpg",
+        "captured": true,
+        "subNation": ""
+    },
+    {
+        "name": "M.S.410",
+        "type": "Air",
+        "nation": "France",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/6/6b/GarageImage_M.S.410.jpg/500px-GarageImage_M.S.410.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Potez 630",
+        "type": "Air",
+        "nation": "France",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/9/9c/GarageImage_Potez_630.jpg/500px-GarageImage_Potez_630.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Potez 631",
+        "type": "Air",
+        "nation": "France",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/3/3c/GarageImage_Potez_631.jpg/500px-GarageImage_Potez_631.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "A-35B",
+        "type": "Air",
+        "nation": "France",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/5/5d/GarageImage_A-35B_%28France%29.jpg/500px-GarageImage_A-35B_%28France%29.jpg",
+        "captured": true,
+        "subNation": ""
+    },
+    {
+        "name": "N.C.223.3",
+        "type": "Air",
+        "nation": "France",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/2/21/GarageImage_N.C.223.3.jpg/500px-GarageImage_N.C.223.3.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "V.G.33C-1",
+        "type": "Air",
+        "nation": "France",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/a/ac/GarageImage_V.G.33C-1.jpg/500px-GarageImage_V.G.33C-1.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "D.520",
+        "type": "Air",
+        "nation": "France",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/0/08/GarageImage_D.520_%28Great_Britain%29.jpg/500px-GarageImage_D.520_%28Great_Britain%29.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "F6F-5",
+        "type": "Air",
+        "nation": "France",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/5/51/GarageImage_F6F-5_%28France%29.jpg/500px-GarageImage_F6F-5_%28France%29.jpg",
+        "captured": true,
+        "subNation": ""
+    },
+    {
+        "name": "M.B.175T",
+        "type": "Air",
+        "nation": "France",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/d/dd/GarageImage_M.B.175T.jpg/500px-GarageImage_M.B.175T.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "LeO 451 early",
+        "type": "Air",
+        "nation": "France",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/7/71/GarageImage_LeO_451_early.jpg/500px-GarageImage_LeO_451_early.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "LeO 451 late",
+        "type": "Air",
+        "nation": "France",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/7/79/GarageImage_LeO_451_late.jpg/500px-GarageImage_LeO_451_late.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Vautour",
+        "type": "Sea",
+        "nation": "France",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/2/2b/GarageImage_Vautour.jpg/500px-GarageImage_Vautour.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Milan",
+        "type": "Sea",
+        "nation": "France",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/b/bb/GarageImage_Milan_%28destroyer%29.jpg/500px-GarageImage_Milan_%28destroyer%29.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Marceau",
+        "type": "Sea",
+        "nation": "France",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/f/f9/GarageImage_Marceau.jpg/500px-GarageImage_Marceau.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "AMX-13 (FL11)",
+        "type": "Land",
+        "nation": "France",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/1/18/GarageImage_AMX-13_%28FL11%29.jpg/500px-GarageImage_AMX-13_%28FL11%29.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "M4A4",
+        "type": "Land",
+        "nation": "France",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/f/f0/GarageImage_M4A4_%28France%29.jpg/500px-GarageImage_M4A4_%28France%29.jpg",
+        "captured": true,
+        "subNation": ""
+    },
+    {
+        "name": "ARL-44 (ACL-1)",
+        "type": "Land",
+        "nation": "France",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/a/a7/GarageImage_ARL-44_%28ACL-1%29.jpg/500px-GarageImage_ARL-44_%28ACL-1%29.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "AMX-13 DCA 40",
+        "type": "Land",
+        "nation": "France",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/e/e6/GarageImage_AMX-13_DCA_40.jpg/500px-GarageImage_AMX-13_DCA_40.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "TPK 6.41",
+        "type": "Land",
+        "nation": "France",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/d/db/GarageImage_TPK_6.41.jpg/500px-GarageImage_TPK_6.41.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "ARL-44",
+        "type": "Land",
+        "nation": "France",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/b/b9/GarageImage_ARL-44.jpg/500px-GarageImage_ARL-44.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "E.B.R. (1951)",
+        "type": "Land",
+        "nation": "France",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/7/7e/GarageImage_E.B.R._%281951%29.jpg/500px-GarageImage_E.B.R._%281951%29.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "M4A4 (SA50)",
+        "type": "Land",
+        "nation": "France",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/c/cd/GarageImage_M4A4_%28SA50%29.jpg/500px-GarageImage_M4A4_%28SA50%29.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "M4A3E2",
+        "type": "Land",
+        "nation": "France",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/9/9b/GarageImage_M4A3E2_%28France%29.jpg/500px-GarageImage_M4A3E2_%28France%29.jpg",
+        "captured": true,
+        "subNation": ""
+    },
+    {
+        "name": "M36B2",
+        "type": "Land",
+        "nation": "France",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/f/fc/GarageImage_M36B2_%28France%29.jpg/500px-GarageImage_M36B2_%28France%29.jpg",
+        "captured": true,
+        "subNation": ""
+    },
+    {
+        "name": "VB.10C-1",
+        "type": "Air",
+        "nation": "France",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/8/87/GarageImage_VB.10C-1.jpg/500px-GarageImage_VB.10C-1.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "M.B.157",
+        "type": "Air",
+        "nation": "France",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/3/3c/GarageImage_M.B.157.jpg/500px-GarageImage_M.B.157.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "SB2C-5",
+        "type": "Air",
+        "nation": "France",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/f/f1/GarageImage_SB2C-5_%28France%29.jpg/500px-GarageImage_SB2C-5_%28France%29.jpg",
+        "captured": true,
+        "subNation": ""
+    },
+    {
+        "name": "B-26C",
+        "type": "Air",
+        "nation": "France",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/6/6f/GarageImage_B-26C.jpg/500px-GarageImage_B-26C.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "VB.10-02",
+        "type": "Air",
+        "nation": "France",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/5/59/GarageImage_VB.10-02.jpg/500px-GarageImage_VB.10-02.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "P-63C-5",
+        "type": "Air",
+        "nation": "France",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/0/0d/GarageImage_P-63C-5_%28France%29.jpg/500px-GarageImage_P-63C-5_%28France%29.jpg",
+        "captured": true,
+        "subNation": ""
+    },
+    {
+        "name": "M.B.162",
+        "type": "Air",
+        "nation": "France",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/4/4b/GarageImage_M.B.162.jpg/500px-GarageImage_M.B.162.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Le Malin",
+        "type": "Sea",
+        "nation": "France",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/5/5e/GarageImage_Le_Malin.jpg/500px-GarageImage_Le_Malin.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Jeanne d'Arc",
+        "type": "Sea",
+        "nation": "France",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/6/6a/GarageImage_Jeanne_d%27Arc.jpg/500px-GarageImage_Jeanne_d%27Arc.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Primauguet",
+        "type": "Sea",
+        "nation": "France",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/e/eb/GarageImage_Primauguet.jpg/500px-GarageImage_Primauguet.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "TPK 6.41",
+        "type": "Land",
+        "nation": "France",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/d/db/GarageImage_TPK_6.41.jpg/500px-GarageImage_TPK_6.41.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "AMX-13",
+        "type": "Land",
+        "nation": "France",
+        "rank": 4,
+        "image": "https://wiki.warthunder.com/images/thumb/2/2e/GarageImage_AMX-13.jpg/500px-GarageImage_AMX-13.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "AMX M4",
+        "type": "Land",
+        "nation": "France",
+        "rank": 4,
+        "image": "https://wiki.warthunder.com/images/thumb/c/cd/GarageImage_AMX_M4.jpg/500px-GarageImage_AMX_M4.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "CA Lorraine",
+        "type": "Land",
+        "nation": "France",
+        "rank": 4,
+        "image": "https://wiki.warthunder.com/images/thumb/1/13/GarageImage_CA_Lorraine.jpg/500px-GarageImage_CA_Lorraine.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "ELC bis",
+        "type": "Land",
+        "nation": "France",
+        "rank": 4,
+        "image": "https://wiki.warthunder.com/images/thumb/6/6c/GarageImage_ELC_bis.jpg/500px-GarageImage_ELC_bis.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Seafire LF Mk.III",
+        "type": "Air",
+        "nation": "France",
+        "rank": 4,
+        "image": "https://wiki.warthunder.com/images/thumb/3/31/GarageImage_Seafire_LF_Mk.III_%28France%29.jpg/500px-GarageImage_Seafire_LF_Mk.III_%28France%29.jpg",
+        "captured": true,
+        "subNation": ""
+    },
+    {
+        "name": "F6F-5N",
+        "type": "Air",
+        "nation": "France",
+        "rank": 4,
+        "image": "https://wiki.warthunder.com/images/thumb/9/95/GarageImage_F6F-5N_%28France%29.jpg/500px-GarageImage_F6F-5N_%28France%29.jpg",
+        "captured": true,
+        "subNation": ""
+    },
+    {
+        "name": "AD-4",
+        "type": "Air",
+        "nation": "France",
+        "rank": 4,
+        "image": "https://wiki.warthunder.com/images/thumb/6/63/GarageImage_AD-4_%28France%29.jpg/500px-GarageImage_AD-4_%28France%29.jpg",
+        "captured": true,
+        "subNation": ""
+    },
+    {
+        "name": "PB4Y-2",
+        "type": "Air",
+        "nation": "France",
+        "rank": 4,
+        "image": "https://wiki.warthunder.com/images/thumb/e/e9/GarageImage_PB4Y-2_%28France%29.jpg/500px-GarageImage_PB4Y-2_%28France%29.jpg",
+        "captured": true,
+        "subNation": ""
+    },
+    {
+        "name": "F8F-1B",
+        "type": "Air",
+        "nation": "France",
+        "rank": 4,
+        "image": "https://wiki.warthunder.com/images/thumb/0/06/GarageImage_F8F-1B_%28France%29.jpg/500px-GarageImage_F8F-1B_%28France%29.jpg",
+        "captured": true,
+        "subNation": ""
+    },
+    {
+        "name": "F4U-7",
+        "type": "Air",
+        "nation": "France",
+        "rank": 4,
+        "image": "https://wiki.warthunder.com/images/thumb/5/5c/GarageImage_F4U-7.jpg/500px-GarageImage_F4U-7.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Lancaster MR.7",
+        "type": "Air",
+        "nation": "France",
+        "rank": 4,
+        "image": "https://wiki.warthunder.com/images/thumb/9/94/GarageImage_Lancaster_MR.7.jpg/500px-GarageImage_Lancaster_MR.7.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Colbert",
+        "type": "Sea",
+        "nation": "France",
+        "rank": 4,
+        "image": "https://wiki.warthunder.com/images/thumb/6/66/GarageImage_Colbert.jpg/500px-GarageImage_Colbert.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Emile Bertin",
+        "type": "Sea",
+        "nation": "France",
+        "rank": 4,
+        "image": "https://wiki.warthunder.com/images/thumb/a/a4/GarageImage_Emile_Bertin.jpg/500px-GarageImage_Emile_Bertin.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "M26",
+        "type": "Land",
+        "nation": "France",
+        "rank": 4,
+        "image": "https://wiki.warthunder.com/images/thumb/9/9a/GarageImage_M26_%28France%29.jpg/500px-GarageImage_M26_%28France%29.jpg",
+        "captured": true,
+        "subNation": ""
+    },
+    {
+        "name": "AMX-10P",
+        "type": "Land",
+        "nation": "France",
+        "rank": 4,
+        "image": "https://wiki.warthunder.com/images/thumb/5/5d/GarageImage_AMX-10P.jpg/500px-GarageImage_AMX-10P.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "AML-90",
+        "type": "Land",
+        "nation": "France",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/9/9a/GarageImage_AML-90.jpg/500px-GarageImage_AML-90.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Lorraine 40t",
+        "type": "Land",
+        "nation": "France",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/3/31/GarageImage_Lorraine_40t.jpg/500px-GarageImage_Lorraine_40t.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Char 25t",
+        "type": "Land",
+        "nation": "France",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/a/a7/GarageImage_Char_25t.jpg/500px-GarageImage_Char_25t.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "AMX-50 (TOA100)",
+        "type": "Land",
+        "nation": "France",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/b/b1/GarageImage_AMX-50_%28TOA100%29.jpg/500px-GarageImage_AMX-50_%28TOA100%29.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "AuF1",
+        "type": "Land",
+        "nation": "France",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/c/c8/GarageImage_AuF1.jpg/500px-GarageImage_AuF1.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "AMX-13-90",
+        "type": "Land",
+        "nation": "France",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/2/26/GarageImage_AMX-13-90.jpg/500px-GarageImage_AMX-13-90.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "AMX-30 (1972)",
+        "type": "Land",
+        "nation": "France",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/a/af/GarageImage_AMX-30_%281972%29.jpg/500px-GarageImage_AMX-30_%281972%29.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "AMX-50 Surbaiss\u00c3\u00a9",
+        "type": "Land",
+        "nation": "France",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/4/44/GarageImage_AMX-50_Surbaiss%C3%A9.jpg/500px-GarageImage_AMX-50_Surbaiss%C3%A9.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "AMX-10M",
+        "type": "Land",
+        "nation": "France",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/1/17/GarageImage_AMX-10M.jpg/500px-GarageImage_AMX-10M.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "AMX-50 Foch",
+        "type": "Land",
+        "nation": "France",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/2/2b/GarageImage_AMX-50_Foch.jpg/500px-GarageImage_AMX-50_Foch.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "M.D.450B Ouragan",
+        "type": "Air",
+        "nation": "France",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/2/22/GarageImage_M.D.450B_Ouragan.jpg/500px-GarageImage_M.D.450B_Ouragan.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "M.D.450B Barougan",
+        "type": "Air",
+        "nation": "France",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/a/a0/GarageImage_M.D.450B_Barougan.jpg/500px-GarageImage_M.D.450B_Barougan.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "S.O.4050 Vautour IIN (late)",
+        "type": "Air",
+        "nation": "France",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/7/74/GarageImage_S.O.4050_Vautour_IIN_%28late%29.jpg/500px-GarageImage_S.O.4050_Vautour_IIN_%28late%29.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "F-84G-26-RE",
+        "type": "Air",
+        "nation": "France",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/c/c4/GarageImage_F-84G-26-RE_%28France%29.jpg/500px-GarageImage_F-84G-26-RE_%28France%29.jpg",
+        "captured": true,
+        "subNation": ""
+    },
+    {
+        "name": "M.D.452 IIA",
+        "type": "Air",
+        "nation": "France",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/0/0e/GarageImage_M.D.452_IIA.jpg/500px-GarageImage_M.D.452_IIA.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "M.D.452 IIC",
+        "type": "Air",
+        "nation": "France",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/f/f9/GarageImage_M.D.452_IIC.jpg/500px-GarageImage_M.D.452_IIC.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "H-34",
+        "type": "Air",
+        "nation": "France",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/8/81/GarageImage_H-34_%28France%29.jpg/500px-GarageImage_H-34_%28France%29.jpg",
+        "captured": true,
+        "subNation": ""
+    },
+    {
+        "name": "SA 313B Alouette II",
+        "type": "Air",
+        "nation": "France",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/a/a8/GarageImage_SA_313B_Alouette_II.jpg/500px-GarageImage_SA_313B_Alouette_II.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "SA 316B Alouette III",
+        "type": "Air",
+        "nation": "France",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/4/42/GarageImage_SA_316B_Alouette_III.jpg/500px-GarageImage_SA_316B_Alouette_III.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Paris",
+        "type": "Sea",
+        "nation": "France",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/9/9c/GarageImage_Paris.jpg/500px-GarageImage_Paris.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Vauquelin",
+        "type": "Sea",
+        "nation": "France",
+        "rank": 5,
+        "image": "https://encyclopedia.warthunder.com/i/images/fr_destroyer_vauquelin_class_vauquelin.png",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Vauquelin",
+        "type": "Sea",
+        "nation": "France",
+        "rank": 5,
+        "image": "https://encyclopedia.warthunder.com/i/images/fr_destroyer_vauquelin_class_vauquelin.png",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "MARS 15",
+        "type": "Land",
+        "nation": "France",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/5/59/GarageImage_MARS_15.jpg/500px-GarageImage_MARS_15.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "AMX-13 (HOT)",
+        "type": "Land",
+        "nation": "France",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/8/83/GarageImage_AMX-13_%28HOT%29.jpg/500px-GarageImage_AMX-13_%28HOT%29.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "AMX-30B2",
+        "type": "Land",
+        "nation": "France",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/b/b9/GarageImage_AMX-30B2.jpg/500px-GarageImage_AMX-30B2.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "AMX-30B2 BRENUS",
+        "type": "Land",
+        "nation": "France",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/b/bd/GarageImage_AMX-30B2_BRENUS.jpg/500px-GarageImage_AMX-30B2_BRENUS.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "AMX-32 (105)",
+        "type": "Land",
+        "nation": "France",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/c/c4/GarageImage_AMX-32_%28105%29.jpg/500px-GarageImage_AMX-32_%28105%29.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "AMX-32",
+        "type": "Land",
+        "nation": "France",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/8/8d/GarageImage_AMX-32.jpg/500px-GarageImage_AMX-32.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "AMX-30 DCA",
+        "type": "Land",
+        "nation": "France",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/9/92/GarageImage_AMX-30_DCA.jpg/500px-GarageImage_AMX-30_DCA.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "AMX-30 ACRA",
+        "type": "Land",
+        "nation": "France",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/c/c9/GarageImage_AMX-30_ACRA.jpg/500px-GarageImage_AMX-30_ACRA.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "AMX-10RC",
+        "type": "Land",
+        "nation": "France",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/e/e2/GarageImage_AMX-10RC.jpg/500px-GarageImage_AMX-10RC.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "SK-105A2",
+        "type": "Land",
+        "nation": "France",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/e/e6/GarageImage_SK-105A2.jpg/500px-GarageImage_SK-105A2.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "AMX-40",
+        "type": "Land",
+        "nation": "France",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/0/0b/GarageImage_AMX-40.jpg/500px-GarageImage_AMX-40.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "SANTAL",
+        "type": "Land",
+        "nation": "France",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/9/93/GarageImage_SANTAL.jpg/500px-GarageImage_SANTAL.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "MEPHISTO",
+        "type": "Land",
+        "nation": "France",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/2/2b/GarageImage_MEPHISTO.jpg/500px-GarageImage_MEPHISTO.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Mystere IVA",
+        "type": "Air",
+        "nation": "France",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/6/65/GarageImage_Mystere_IVA.jpg/500px-GarageImage_Mystere_IVA.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Super Mystere B2",
+        "type": "Air",
+        "nation": "France",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/f/f3/GarageImage_Super_Mystere_B2.jpg/500px-GarageImage_Super_Mystere_B2.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "F-86K",
+        "type": "Air",
+        "nation": "France",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/f/f9/GarageImage_F-86K_%28France%29.jpg/500px-GarageImage_F-86K_%28France%29.jpg",
+        "captured": true,
+        "subNation": ""
+    },
+    {
+        "name": "F-84F",
+        "type": "Air",
+        "nation": "France",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/5/52/GarageImage_F-84F_%28France%29.jpg/500px-GarageImage_F-84F_%28France%29.jpg",
+        "captured": true,
+        "subNation": ""
+    },
+    {
+        "name": "S.O.4050 Vautour IIB",
+        "type": "Air",
+        "nation": "France",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/6/61/GarageImage_S.O.4050_Vautour_IIB.jpg/500px-GarageImage_S.O.4050_Vautour_IIB.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "S.O.4050 Vautour IIA",
+        "type": "Air",
+        "nation": "France",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/7/7a/GarageImage_S.O.4050_Vautour_IIA.jpg/500px-GarageImage_S.O.4050_Vautour_IIA.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "F-100D",
+        "type": "Air",
+        "nation": "France",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/7/7e/GarageImage_F-100D_%28France%29.jpg/500px-GarageImage_F-100D_%28France%29.jpg",
+        "captured": true,
+        "subNation": ""
+    },
+    {
+        "name": "Etendard IVM",
+        "type": "Air",
+        "nation": "France",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/8/8d/GarageImage_Etendard_IVM.jpg/500px-GarageImage_Etendard_IVM.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "SA.341F Gazelle",
+        "type": "Air",
+        "nation": "France",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/1/1d/GarageImage_SA.341F_Gazelle.jpg/500px-GarageImage_SA.341F_Gazelle.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "SA.342M Gazelle",
+        "type": "Air",
+        "nation": "France",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/a/a3/GarageImage_SA.342M_Gazelle.jpg/500px-GarageImage_SA.342M_Gazelle.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Lorraine",
+        "type": "Sea",
+        "nation": "France",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/3/33/GarageImage_Lorraine.jpg/500px-GarageImage_Lorraine.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Leclerc",
+        "type": "Land",
+        "nation": "France",
+        "rank": 7,
+        "image": "https://wiki.warthunder.com/images/thumb/8/85/GarageImage_Leclerc.jpg/500px-GarageImage_Leclerc.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Leclerc S2",
+        "type": "Land",
+        "nation": "France",
+        "rank": 7,
+        "image": "https://wiki.warthunder.com/images/thumb/c/c3/GarageImage_Leclerc_S2.jpg/500px-GarageImage_Leclerc_S2.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Roland 1",
+        "type": "Land",
+        "nation": "France",
+        "rank": 7,
+        "image": "https://wiki.warthunder.com/images/thumb/3/3a/GarageImage_Roland_1.jpg/500px-GarageImage_Roland_1.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Leclerc SXXI",
+        "type": "Land",
+        "nation": "France",
+        "rank": 7,
+        "image": "https://wiki.warthunder.com/images/thumb/0/04/GarageImage_Leclerc_SXXI.jpg/500px-GarageImage_Leclerc_SXXI.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "ItO 90M",
+        "type": "Land",
+        "nation": "France",
+        "rank": 7,
+        "image": "https://wiki.warthunder.com/images/thumb/f/f0/GarageImage_ItO_90M_%28France%29.jpg/500px-GarageImage_ItO_90M_%28France%29.jpg",
+        "captured": true,
+        "subNation": ""
+    },
+    {
+        "name": "Leclerc AZUR",
+        "type": "Land",
+        "nation": "France",
+        "rank": 7,
+        "image": "https://wiki.warthunder.com/images/thumb/d/d3/GarageImage_Leclerc_AZUR.jpg/500px-GarageImage_Leclerc_AZUR.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Mirage IIIC",
+        "type": "Air",
+        "nation": "France",
+        "rank": 7,
+        "image": "https://wiki.warthunder.com/images/thumb/f/f4/GarageImage_Mirage_IIIC.jpg/500px-GarageImage_Mirage_IIIC.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Mirage IIIE",
+        "type": "Air",
+        "nation": "France",
+        "rank": 7,
+        "image": "https://wiki.warthunder.com/images/thumb/3/36/GarageImage_Mirage_IIIE.jpg/500px-GarageImage_Mirage_IIIE.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "F-8E(FN)",
+        "type": "Air",
+        "nation": "France",
+        "rank": 7,
+        "image": "https://wiki.warthunder.com/images/thumb/5/55/GarageImage_F-8E%28FN%29_%28France%29.jpg/500px-GarageImage_F-8E%28FN%29_%28France%29.jpg",
+        "captured": true,
+        "subNation": ""
+    },
+    {
+        "name": "Mirage 5F",
+        "type": "Air",
+        "nation": "France",
+        "rank": 7,
+        "image": "https://wiki.warthunder.com/images/thumb/f/f3/GarageImage_Mirage_5F.jpg/500px-GarageImage_Mirage_5F.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Super Etendard",
+        "type": "Air",
+        "nation": "France",
+        "rank": 7,
+        "image": "https://wiki.warthunder.com/images/thumb/c/ce/GarageImage_Super_Etendard.jpg/500px-GarageImage_Super_Etendard.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Mirage F1C",
+        "type": "Air",
+        "nation": "France",
+        "rank": 7,
+        "image": "https://wiki.warthunder.com/images/thumb/e/e2/GarageImage_Mirage_F1C.jpg/500px-GarageImage_Mirage_F1C.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Mirage F1CT",
+        "type": "Air",
+        "nation": "France",
+        "rank": 7,
+        "image": "https://wiki.warthunder.com/images/thumb/1/1f/GarageImage_Mirage_F1CT.jpg/500px-GarageImage_Mirage_F1CT.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Jaguar A",
+        "type": "Air",
+        "nation": "France",
+        "rank": 7,
+        "image": "https://wiki.warthunder.com/images/thumb/8/88/GarageImage_Jaguar_A.jpg/500px-GarageImage_Jaguar_A.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "EC-665 Tiger HAD",
+        "type": "Air",
+        "nation": "France",
+        "rank": 7,
+        "image": "https://wiki.warthunder.com/images/thumb/1/14/GarageImage_EC-665_Tiger_HAD.jpg/500px-GarageImage_EC-665_Tiger_HAD.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Tiger HAD Block 2",
+        "type": "Air",
+        "nation": "France",
+        "rank": 7,
+        "image": "https://wiki.warthunder.com/images/thumb/5/5c/GarageImage_Tiger_HAD_Block_2.jpg/500px-GarageImage_Tiger_HAD_Block_2.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Mirage 2000C-S5",
+        "type": "Air",
+        "nation": "France",
+        "rank": 8,
+        "image": "https://wiki.warthunder.com/images/thumb/3/36/GarageImage_Mirage_2000C-S5.jpg/500px-GarageImage_Mirage_2000C-S5.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Mirage 2000D-R1",
+        "type": "Air",
+        "nation": "France",
+        "rank": 8,
+        "image": "https://wiki.warthunder.com/images/thumb/4/48/GarageImage_Mirage_2000D-R1.jpg/500px-GarageImage_Mirage_2000D-R1.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Mirage 2000-5F",
+        "type": "Air",
+        "nation": "France",
+        "rank": 8,
+        "image": "https://wiki.warthunder.com/images/thumb/f/f7/GarageImage_Mirage_2000-5F.jpg/500px-GarageImage_Mirage_2000-5F.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Mirage 4000",
+        "type": "Air",
+        "nation": "France",
+        "rank": 8,
+        "image": "https://wiki.warthunder.com/images/thumb/e/ec/GarageImage_Mirage_4000.jpg/500px-GarageImage_Mirage_4000.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Mirage 4000",
+        "type": "Air",
+        "nation": "France",
+        "rank": 8,
+        "image": "https://wiki.warthunder.com/images/thumb/e/ec/GarageImage_Mirage_4000.jpg/500px-GarageImage_Mirage_4000.jpg",
+        "captured": false,
+        "subNation": ""
+    }
+]

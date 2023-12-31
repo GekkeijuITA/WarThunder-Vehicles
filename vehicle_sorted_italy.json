@@ -1,0 +1,1586 @@
+[
+    {
+        "name": "AS 42",
+        "type": "Land",
+        "nation": "Italy",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/3/30/GarageImage_AS_42.jpg/500px-GarageImage_AS_42.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "M11/39",
+        "type": "Land",
+        "nation": "Italy",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/4/48/GarageImage_M11_39.jpg/500px-GarageImage_M11_39.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "47/32 L40",
+        "type": "Land",
+        "nation": "Italy",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/8/82/GarageImage_47_32_L40.jpg/500px-GarageImage_47_32_L40.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "AS 42/47",
+        "type": "Land",
+        "nation": "Italy",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/c/c6/GarageImage_AS_42-47.jpg/500px-GarageImage_AS_42-47.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Lancia 3Ro (100/17)",
+        "type": "Land",
+        "nation": "Italy",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/4/4a/GarageImage_Lancia_3Ro_%28100-17%29.jpg/500px-GarageImage_Lancia_3Ro_%28100-17%29.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "L3/33 CC",
+        "type": "Land",
+        "nation": "Italy",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/d/d4/GarageImage_L3_33_CC.jpg/500px-GarageImage_L3_33_CC.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "AB 41",
+        "type": "Land",
+        "nation": "Italy",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/1/1a/GarageImage_AB_41.jpg/500px-GarageImage_AB_41.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "L6/40",
+        "type": "Land",
+        "nation": "Italy",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/c/c9/GarageImage_L6_40.jpg/500px-GarageImage_L6_40.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Csaba",
+        "type": "Land",
+        "nation": "Italy",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/1/11/GarageImage_Csaba.jpg/500px-GarageImage_Csaba.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "M13/40 (I)",
+        "type": "Land",
+        "nation": "Italy",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/9/9a/GarageImage_M13_40_%28I%29.jpg/500px-GarageImage_M13_40_%28I%29.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "M13/40 (III)",
+        "type": "Land",
+        "nation": "Italy",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/b/b3/GarageImage_M13_40_%28III%29.jpg/500px-GarageImage_M13_40_%28III%29.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "M14/41",
+        "type": "Land",
+        "nation": "Italy",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/d/d5/GarageImage_M14_41.jpg/500px-GarageImage_M14_41.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Ro.44",
+        "type": "Air",
+        "nation": "Italy",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/2/2b/GarageImage_Ro.44.jpg/500px-GarageImage_Ro.44.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "CR.32",
+        "type": "Air",
+        "nation": "Italy",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/f/f3/GarageImage_CR.32.jpg/500px-GarageImage_CR.32.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "CR.32 quater",
+        "type": "Air",
+        "nation": "Italy",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/1/1a/GarageImage_CR.32_quater.jpg/500px-GarageImage_CR.32_quater.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Ba.65 (K.14) L",
+        "type": "Air",
+        "nation": "Italy",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/8/81/GarageImage_Ba.65_%28K.14%29_L.jpg/500px-GarageImage_Ba.65_%28K.14%29_L.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Ju 87 R-2",
+        "type": "Air",
+        "nation": "Italy",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/3/37/GarageImage_Ju_87_R-2_%28Italy%29.jpg/500px-GarageImage_Ju_87_R-2_%28Italy%29.jpg",
+        "captured": true,
+        "subNation": ""
+    },
+    {
+        "name": "S.81",
+        "type": "Air",
+        "nation": "Italy",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/5/51/GarageImage_S.81.jpg/500px-GarageImage_S.81.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Re.2000 serie 1",
+        "type": "Air",
+        "nation": "Italy",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/0/04/GarageImage_Re.2000_serie_1.jpg/500px-GarageImage_Re.2000_serie_1.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Re.2000 G.A.",
+        "type": "Air",
+        "nation": "Italy",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/f/fb/GarageImage_Re.2000_G.A..jpg/500px-GarageImage_Re.2000_G.A..jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "CR.42",
+        "type": "Air",
+        "nation": "Italy",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/9/97/GarageImage_CR.42.jpg/500px-GarageImage_CR.42.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Breda 88 (P.XI)",
+        "type": "Air",
+        "nation": "Italy",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/e/e7/GarageImage_Breda_88_%28P.XI%29.jpg/500px-GarageImage_Breda_88_%28P.XI%29.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "P.108A serie 2",
+        "type": "Air",
+        "nation": "Italy",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/2/29/GarageImage_P.108A_serie_2.jpg/500px-GarageImage_P.108A_serie_2.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "B.R.20DR",
+        "type": "Air",
+        "nation": "Italy",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/0/00/GarageImage_B.R.20DR.jpg/500px-GarageImage_B.R.20DR.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "B.R.20M M1",
+        "type": "Air",
+        "nation": "Italy",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/a/af/GarageImage_B.R.20M_M1.jpg/500px-GarageImage_B.R.20M_M1.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "G.50 serie 2",
+        "type": "Air",
+        "nation": "Italy",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/9/93/GarageImage_G.50_serie_2.jpg/500px-GarageImage_G.50_serie_2.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "G.50 AS serie 7",
+        "type": "Air",
+        "nation": "Italy",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/a/a0/GarageImage_G.50_AS_serie_7.jpg/500px-GarageImage_G.50_AS_serie_7.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "F.C.20 Bis",
+        "type": "Air",
+        "nation": "Italy",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/c/c8/GarageImage_F.C.20_Bis.jpg/500px-GarageImage_F.C.20_Bis.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "S.M.79 serie 1",
+        "type": "Air",
+        "nation": "Italy",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/0/02/GarageImage_S.M.79_serie_1.jpg/500px-GarageImage_S.M.79_serie_1.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "S.M.79 serie 8",
+        "type": "Air",
+        "nation": "Italy",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/8/82/GarageImage_S.M.79_serie_8.jpg/500px-GarageImage_S.M.79_serie_8.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "MAS 561",
+        "type": "Sea",
+        "nation": "Italy",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/e/e3/GarageImage_MAS_561.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "MAS 555",
+        "type": "Sea",
+        "nation": "Italy",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/b/b0/GarageImage_MAS_555.jpg/500px-GarageImage_MAS_555.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "VAS 201",
+        "type": "Sea",
+        "nation": "Italy",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/e/ee/GarageImage_VAS_201.jpg/500px-GarageImage_VAS_201.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "RN Turbine",
+        "type": "Sea",
+        "nation": "Italy",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/b/b8/GarageImage_RN_Turbine.jpg/500px-GarageImage_RN_Turbine.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "RN Aquila",
+        "type": "Sea",
+        "nation": "Italy",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/e/ec/GarageImage_RN_Aquila.jpg/500px-GarageImage_RN_Aquila.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "RN Dardo",
+        "type": "Sea",
+        "nation": "Italy",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/5/54/GarageImage_RN_Dardo.jpg/500px-GarageImage_RN_Dardo.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "75/32 M41",
+        "type": "Land",
+        "nation": "Italy",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/f/fb/GarageImage_75_32_M41.jpg/500px-GarageImage_75_32_M41.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "AB 43",
+        "type": "Land",
+        "nation": "Italy",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/7/76/GarageImage_AB_43.jpg/500px-GarageImage_AB_43.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "75/34 M42",
+        "type": "Land",
+        "nation": "Italy",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/c/ca/GarageImage_75_34_M42.jpg/500px-GarageImage_75_34_M42.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "M3A3",
+        "type": "Land",
+        "nation": "Italy",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/6/63/GarageImage_M3A3_%28Italy%29.jpg/500px-GarageImage_M3A3_%28Italy%29.jpg",
+        "captured": true,
+        "subNation": ""
+    },
+    {
+        "name": "M15/42",
+        "type": "Land",
+        "nation": "Italy",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/3/3f/GarageImage_M15_42.jpg/500px-GarageImage_M15_42.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Pz.III N",
+        "type": "Land",
+        "nation": "Italy",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/1/1a/GarageImage_Pz.III_N_%28Italy%29.jpg/500px-GarageImage_Pz.III_N_%28Italy%29.jpg",
+        "captured": true,
+        "subNation": ""
+    },
+    {
+        "name": "CM52",
+        "type": "Land",
+        "nation": "Italy",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/2/22/GarageImage_CM52.jpg/500px-GarageImage_CM52.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Turan I",
+        "type": "Land",
+        "nation": "Italy",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/8/8d/GarageImage_Turan_I.jpg/500px-GarageImage_Turan_I.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "105/25 M43",
+        "type": "Land",
+        "nation": "Italy",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/d/d3/GarageImage_105_25_M43.jpg/500px-GarageImage_105_25_M43.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "75/34 M43",
+        "type": "Land",
+        "nation": "Italy",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/7/72/GarageImage_75_34_M43.jpg/500px-GarageImage_75_34_M43.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Zrinyi II",
+        "type": "Land",
+        "nation": "Italy",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/8/82/GarageImage_Zrinyi_II.jpg/500px-GarageImage_Zrinyi_II.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "75/18 M41",
+        "type": "Land",
+        "nation": "Italy",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/2/2f/GarageImage_75_18_M41.jpg/500px-GarageImage_75_18_M41.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "P40",
+        "type": "Land",
+        "nation": "Italy",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/9/94/GarageImage_P40.jpg/500px-GarageImage_P40.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Re.2002 Early",
+        "type": "Air",
+        "nation": "Italy",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/f/f6/GarageImage_Re.2002_Early.jpg/500px-GarageImage_Re.2002_Early.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "C. 200 serie 3",
+        "type": "Air",
+        "nation": "Italy",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/5/52/GarageImage_C._200_serie_3.jpg/500px-GarageImage_C._200_serie_3.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "C. 200 serie 7",
+        "type": "Air",
+        "nation": "Italy",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/4/4f/GarageImage_C._200_serie_7.jpg/500px-GarageImage_C._200_serie_7.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Ju 87 D-3",
+        "type": "Air",
+        "nation": "Italy",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/4/41/GarageImage_Ju_87_D-3_%28Italy%29.jpg/500px-GarageImage_Ju_87_D-3_%28Italy%29.jpg",
+        "captured": true,
+        "subNation": ""
+    },
+    {
+        "name": "S.M.79 AS",
+        "type": "Air",
+        "nation": "Italy",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/0/03/GarageImage_S.M.79_AS.jpg/500px-GarageImage_S.M.79_AS.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "S.M.79 bis/T.M",
+        "type": "Air",
+        "nation": "Italy",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/1/1d/GarageImage_S.M.79_bis_T.M.jpg/500px-GarageImage_S.M.79_bis_T.M.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "S.M.79 B",
+        "type": "Air",
+        "nation": "Italy",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/f/f7/GarageImage_S.M.79_B.jpg/500px-GarageImage_S.M.79_B.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Re.2001 serie 1",
+        "type": "Air",
+        "nation": "Italy",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/4/49/GarageImage_Re.2001_serie_1.jpg/500px-GarageImage_Re.2001_serie_1.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Re.2001 CB",
+        "type": "Air",
+        "nation": "Italy",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/b/b3/GarageImage_Re.2001_CB.jpg/500px-GarageImage_Re.2001_CB.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "C. 202",
+        "type": "Air",
+        "nation": "Italy",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/6/60/GarageImage_C._202.jpg/500px-GarageImage_C._202.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "C. 205 serie 1",
+        "type": "Air",
+        "nation": "Italy",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/c/ca/GarageImage_C._205_serie_1.jpg/500px-GarageImage_C._205_serie_1.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "SM.91",
+        "type": "Air",
+        "nation": "Italy",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/7/74/GarageImage_SM.91.jpg/500px-GarageImage_SM.91.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Z.1007 bis serie 3",
+        "type": "Air",
+        "nation": "Italy",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/9/9e/GarageImage_Z.1007_bis_serie_3.jpg/500px-GarageImage_Z.1007_bis_serie_3.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Z.1007 bis serie 5",
+        "type": "Air",
+        "nation": "Italy",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/3/3e/GarageImage_Z.1007_bis_serie_5.jpg/500px-GarageImage_Z.1007_bis_serie_5.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "MS-15",
+        "type": "Sea",
+        "nation": "Italy",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/5/5a/GarageImage_MS-15.jpg/500px-GarageImage_MS-15.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "MS-53",
+        "type": "Sea",
+        "nation": "Italy",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/c/cc/GarageImage_MS-53.jpg/500px-GarageImage_MS-53.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Stefano Turr",
+        "type": "Sea",
+        "nation": "Italy",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/6/67/GarageImage_Stefano_Turr.jpg/500px-GarageImage_Stefano_Turr.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "RN Leone",
+        "type": "Sea",
+        "nation": "Italy",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/5/5f/GarageImage_RN_Leone.jpg/500px-GarageImage_RN_Leone.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "RN Comandante Margottini",
+        "type": "Sea",
+        "nation": "Italy",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/c/cd/GarageImage_RN_Comandante_Margottini.jpg/500px-GarageImage_RN_Comandante_Margottini.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "RN Corazziere",
+        "type": "Sea",
+        "nation": "Italy",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/a/af/GarageImage_RN_Corazziere.jpg/500px-GarageImage_RN_Corazziere.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Impetuoso",
+        "type": "Sea",
+        "nation": "Italy",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/6/61/GarageImage_Impetuoso.jpg/500px-GarageImage_Impetuoso.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "M24",
+        "type": "Land",
+        "nation": "Italy",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/f/f6/GarageImage_M24_%28Italy%29.jpg/500px-GarageImage_M24_%28Italy%29.jpg",
+        "captured": true,
+        "subNation": ""
+    },
+    {
+        "name": "StuG III G",
+        "type": "Land",
+        "nation": "Italy",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/1/1f/GarageImage_StuG_III_G_%28Italy%29.jpg/500px-GarageImage_StuG_III_G_%28Italy%29.jpg",
+        "captured": true,
+        "subNation": ""
+    },
+    {
+        "name": "M42 Contraereo",
+        "type": "Land",
+        "nation": "Italy",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/e/e1/GarageImage_M42_%28Italy%29.jpg/500px-GarageImage_M42_%28Italy%29.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Breda 501",
+        "type": "Land",
+        "nation": "Italy",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/1/12/GarageImage_Breda_501.jpg/500px-GarageImage_Breda_501.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "M4 Tipo IC",
+        "type": "Land",
+        "nation": "Italy",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/d/d6/GarageImage_M4_Tipo_IC.jpg/500px-GarageImage_M4_Tipo_IC.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "75/46 M43",
+        "type": "Land",
+        "nation": "Italy",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/6/6a/GarageImage_75_46_M43.jpg/500px-GarageImage_75_46_M43.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "M4A4",
+        "type": "Land",
+        "nation": "Italy",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/c/c5/GarageImage_M4A4_%28Italy%29.jpg/500px-GarageImage_M4A4_%28Italy%29.jpg",
+        "captured": true,
+        "subNation": ""
+    },
+    {
+        "name": "90/53 M41M",
+        "type": "Land",
+        "nation": "Italy",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/5/57/GarageImage_90_53_M41M.jpg/500px-GarageImage_90_53_M41M.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Turan III",
+        "type": "Land",
+        "nation": "Italy",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/6/68/GarageImage_Turan_III.jpg/500px-GarageImage_Turan_III.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Re.2001 CN",
+        "type": "Air",
+        "nation": "Italy",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/6/63/GarageImage_Re.2001_CN.jpg/500px-GarageImage_Re.2001_CN.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "C. 202EC",
+        "type": "Air",
+        "nation": "Italy",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/1/12/GarageImage_C._202EC.jpg/500px-GarageImage_C._202EC.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "SM.92",
+        "type": "Air",
+        "nation": "Italy",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/5/56/GarageImage_SM.92.jpg/500px-GarageImage_SM.92.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "P.108B serie 1",
+        "type": "Air",
+        "nation": "Italy",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/b/b5/GarageImage_P.108B_serie_1.jpg/500px-GarageImage_P.108B_serie_1.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "P.108B serie 2",
+        "type": "Air",
+        "nation": "Italy",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/3/3f/GarageImage_P.108B_serie_2.jpg/500px-GarageImage_P.108B_serie_2.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "G.55 sottoserie 0",
+        "type": "Air",
+        "nation": "Italy",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/3/3d/GarageImage_G.55_sottoserie_0.jpg/500px-GarageImage_G.55_sottoserie_0.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "C. 205N2",
+        "type": "Air",
+        "nation": "Italy",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/d/d7/GarageImage_C._205N2.jpg/500px-GarageImage_C._205N2.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "P-47D-30",
+        "type": "Air",
+        "nation": "Italy",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/9/9a/GarageImage_P-47D-30_%28Italy%29.jpg/500px-GarageImage_P-47D-30_%28Italy%29.jpg",
+        "captured": true,
+        "subNation": ""
+    },
+    {
+        "name": "GIS 811",
+        "type": "Sea",
+        "nation": "Italy",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/4/4b/GarageImage_GIS_811.jpg/500px-GarageImage_GIS_811.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "MV-611",
+        "type": "Sea",
+        "nation": "Italy",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/f/ff/GarageImage_MV-611.jpg/500px-GarageImage_MV-611.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "MS-472",
+        "type": "Sea",
+        "nation": "Italy",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/d/d1/GarageImage_MS-472.jpg/500px-GarageImage_MS-472.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "RN Da Verazzano",
+        "type": "Sea",
+        "nation": "Italy",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/9/94/GarageImage_RN_Da_Verazzano.jpg/500px-GarageImage_RN_Da_Verazzano.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "RN Etna",
+        "type": "Sea",
+        "nation": "Italy",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/a/a7/GarageImage_RN_Etna.jpg/500px-GarageImage_RN_Etna.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "RN Bartolomeo Colleoni",
+        "type": "Sea",
+        "nation": "Italy",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/9/93/GarageImage_RN_Bartolomeo_Colleoni.jpg/500px-GarageImage_RN_Bartolomeo_Colleoni.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "RN Attilio Regolo",
+        "type": "Sea",
+        "nation": "Italy",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/b/bb/GarageImage_RN_Attilio_Regolo.jpg/500px-GarageImage_RN_Attilio_Regolo.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "FIAT 6614",
+        "type": "Land",
+        "nation": "Italy",
+        "rank": 4,
+        "image": "https://wiki.warthunder.com/images/thumb/c/c0/GarageImage_FIAT_6614.jpg/500px-GarageImage_FIAT_6614.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "M18",
+        "type": "Land",
+        "nation": "Italy",
+        "rank": 4,
+        "image": "https://wiki.warthunder.com/images/thumb/9/9a/GarageImage_M18_%28Italy%29.jpg/500px-GarageImage_M18_%28Italy%29.jpg",
+        "captured": true,
+        "subNation": ""
+    },
+    {
+        "name": "M36B1",
+        "type": "Land",
+        "nation": "Italy",
+        "rank": 4,
+        "image": "https://wiki.warthunder.com/images/thumb/0/02/GarageImage_M36B1.jpg/500px-GarageImage_M36B1.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Sherman Vc",
+        "type": "Land",
+        "nation": "Italy",
+        "rank": 4,
+        "image": "https://wiki.warthunder.com/images/thumb/e/ec/GarageImage_Sherman_Vc_%28Italy%29.jpg/500px-GarageImage_Sherman_Vc_%28Italy%29.jpg",
+        "captured": true,
+        "subNation": ""
+    },
+    {
+        "name": "2S1",
+        "type": "Land",
+        "nation": "Italy",
+        "rank": 4,
+        "image": "https://wiki.warthunder.com/images/thumb/1/11/GarageImage_2S1_%28Italy%29.jpg/500px-GarageImage_2S1_%28Italy%29.jpg",
+        "captured": true,
+        "subNation": "Hungary"
+    },
+    {
+        "name": "AUBL/74",
+        "type": "Land",
+        "nation": "Italy",
+        "rank": 4,
+        "image": "https://wiki.warthunder.com/images/thumb/e/e6/GarageImage_AUBL_74.jpg/500px-GarageImage_AUBL_74.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "R3 T20 FA-HS",
+        "type": "Land",
+        "nation": "Italy",
+        "rank": 4,
+        "image": "https://wiki.warthunder.com/images/thumb/b/ba/GarageImage_R3_T20_FA-HS.jpg/500px-GarageImage_R3_T20_FA-HS.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "M26A1",
+        "type": "Land",
+        "nation": "Italy",
+        "rank": 4,
+        "image": "https://wiki.warthunder.com/images/thumb/3/3e/GarageImage_M26A1.jpg/500px-GarageImage_M26A1.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "G.55 serie 1",
+        "type": "Air",
+        "nation": "Italy",
+        "rank": 4,
+        "image": "https://wiki.warthunder.com/images/thumb/3/30/GarageImage_G.55_serie_1.jpg/500px-GarageImage_G.55_serie_1.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Re.2005 serie 0",
+        "type": "Air",
+        "nation": "Italy",
+        "rank": 4,
+        "image": "https://wiki.warthunder.com/images/thumb/3/3e/GarageImage_Re.2005_serie_0.jpg/500px-GarageImage_Re.2005_serie_0.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "C. 205 serie 3",
+        "type": "Air",
+        "nation": "Italy",
+        "rank": 4,
+        "image": "https://wiki.warthunder.com/images/thumb/2/24/GarageImage_C._205_serie_3.jpg/500px-GarageImage_C._205_serie_3.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "G.56",
+        "type": "Air",
+        "nation": "Italy",
+        "rank": 4,
+        "image": "https://wiki.warthunder.com/images/thumb/2/27/GarageImage_G.56.jpg/500px-GarageImage_G.56.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Bf 109 G-14/AS",
+        "type": "Air",
+        "nation": "Italy",
+        "rank": 4,
+        "image": "https://wiki.warthunder.com/images/thumb/d/dc/GarageImage_Bf_109_G-14_AS_Italy.jpg/500px-GarageImage_Bf_109_G-14_AS_Italy.jpg",
+        "captured": true,
+        "subNation": ""
+    },
+    {
+        "name": "MC-490",
+        "type": "Sea",
+        "nation": "Italy",
+        "rank": 4,
+        "image": "https://wiki.warthunder.com/images/thumb/a/af/GarageImage_MC-490.jpg/500px-GarageImage_MC-490.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "MS-473",
+        "type": "Sea",
+        "nation": "Italy",
+        "rank": 4,
+        "image": "https://wiki.warthunder.com/images/thumb/6/63/GarageImage_MS-473.jpg/500px-GarageImage_MS-473.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "RN Gabbiano",
+        "type": "Sea",
+        "nation": "Italy",
+        "rank": 4,
+        "image": "https://wiki.warthunder.com/images/thumb/9/99/GarageImage_RN_Gabbiano.jpg/500px-GarageImage_RN_Gabbiano.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "RN Raimondo Montecuccoli",
+        "type": "Sea",
+        "nation": "Italy",
+        "rank": 4,
+        "image": "https://wiki.warthunder.com/images/thumb/3/3a/GarageImage_RN_Raimondo_Montecuccoli.jpg/500px-GarageImage_RN_Raimondo_Montecuccoli.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "RN Trento",
+        "type": "Sea",
+        "nation": "Italy",
+        "rank": 4,
+        "image": "https://wiki.warthunder.com/images/thumb/3/38/GarageImage_RN_Trento.jpg/500px-GarageImage_RN_Trento.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "RN Eugenio di Savoia",
+        "type": "Sea",
+        "nation": "Italy",
+        "rank": 4,
+        "image": "https://wiki.warthunder.com/images/thumb/6/6d/GarageImage_RN_Eugenio_di_Savoia.jpg/500px-GarageImage_RN_Eugenio_di_Savoia.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Leopard 40/70",
+        "type": "Land",
+        "nation": "Italy",
+        "rank": 4,
+        "image": "https://wiki.warthunder.com/images/thumb/5/53/GarageImage_Leopard_40-70.jpg/500px-GarageImage_Leopard_40-70.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "M109G",
+        "type": "Land",
+        "nation": "Italy",
+        "rank": 4,
+        "image": "https://wiki.warthunder.com/images/thumb/9/96/GarageImage_M109G_%28Italy%29.jpg/500px-GarageImage_M109G_%28Italy%29.jpg",
+        "captured": true,
+        "subNation": ""
+    },
+    {
+        "name": "M47 (105/55)",
+        "type": "Land",
+        "nation": "Italy",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/d/de/GarageImage_M47_%28105_55%29.jpg/500px-GarageImage_M47_%28105_55%29.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "ZSU-57-2",
+        "type": "Land",
+        "nation": "Italy",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/6/60/GarageImage_ZSU-57-2_%28Italy%29.jpg/500px-GarageImage_ZSU-57-2_%28Italy%29.jpg",
+        "captured": true,
+        "subNation": "Hungary"
+    },
+    {
+        "name": "R3 T106 FA",
+        "type": "Land",
+        "nation": "Italy",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/b/ba/GarageImage_R3_T106_FA.jpg/500px-GarageImage_R3_T106_FA.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "OF-40",
+        "type": "Land",
+        "nation": "Italy",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/0/05/GarageImage_OF-40.jpg/500px-GarageImage_OF-40.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "C13 T90",
+        "type": "Land",
+        "nation": "Italy",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/6/67/GarageImage_C13_T90.jpg/500px-GarageImage_C13_T90.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "BTR-80A",
+        "type": "Land",
+        "nation": "Italy",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/1/11/GarageImage_BTR-80A_%28Italy%29.jpg/500px-GarageImage_BTR-80A_%28Italy%29.jpg",
+        "captured": true,
+        "subNation": "Hungary"
+    },
+    {
+        "name": "Vampire FB 52A",
+        "type": "Air",
+        "nation": "Italy",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/4/42/GarageImage_Vampire_FB_52A.jpg/500px-GarageImage_Vampire_FB_52A.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "G.91 pre-serie",
+        "type": "Air",
+        "nation": "Italy",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/6/60/GarageImage_G.91_pre-serie.jpg/500px-GarageImage_G.91_pre-serie.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "G.91 R/1",
+        "type": "Air",
+        "nation": "Italy",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/f/f9/GarageImage_G.91_R_1.jpg/500px-GarageImage_G.91_R_1.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "F-84G-21-RE",
+        "type": "Air",
+        "nation": "Italy",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/5/5e/GarageImage_F-84G-21-RE_%28Italy%29.jpg/500px-GarageImage_F-84G-21-RE_%28Italy%29.jpg",
+        "captured": true,
+        "subNation": ""
+    },
+    {
+        "name": "CL-13 Mk.4",
+        "type": "Air",
+        "nation": "Italy",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/5/54/GarageImage_CL-13_Mk.4.jpg/500px-GarageImage_CL-13_Mk.4.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "AB 205 A-1",
+        "type": "Air",
+        "nation": "Italy",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/2/24/GarageImage_AB_205_A-1.jpg/500px-GarageImage_AB_205_A-1.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Mi-24D",
+        "type": "Air",
+        "nation": "Italy",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/5/51/GarageImage_Mi-24D_%28Italy%29.jpg/500px-GarageImage_Mi-24D_%28Italy%29.jpg",
+        "captured": true,
+        "subNation": "Hungary"
+    },
+    {
+        "name": "Saetta P-494",
+        "type": "Sea",
+        "nation": "Italy",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/f/f7/GarageImage_Saetta_P-494.jpg/500px-GarageImage_Saetta_P-494.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Albatros",
+        "type": "Sea",
+        "nation": "Italy",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/7/76/GarageImage_Albatros_F543.jpg/500px-GarageImage_Albatros_F543.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "RN Duca degli Abruzzi",
+        "type": "Sea",
+        "nation": "Italy",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/0/07/GarageImage_RN_Duca_degli_Abruzzi.jpg/500px-GarageImage_RN_Duca_degli_Abruzzi.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "RN Zara",
+        "type": "Sea",
+        "nation": "Italy",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/8/81/GarageImage_RN_Zara.jpg/500px-GarageImage_RN_Zara.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "RN Dante Alighieri",
+        "type": "Sea",
+        "nation": "Italy",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/7/79/GarageImage_RN_Dante_Alighieri.jpg/500px-GarageImage_RN_Dante_Alighieri.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "RN Andrea Doria",
+        "type": "Sea",
+        "nation": "Italy",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/9/9a/GarageImage_RN_Andrea_Doria.jpg/500px-GarageImage_RN_Andrea_Doria.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "SIDAM 25",
+        "type": "Land",
+        "nation": "Italy",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/2/29/GarageImage_SIDAM_25.jpg/500px-GarageImage_SIDAM_25.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "VCC-80/60",
+        "type": "Land",
+        "nation": "Italy",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/3/3c/GarageImage_VCC-80-60.jpg/500px-GarageImage_VCC-80-60.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "ZSU-23-4",
+        "type": "Land",
+        "nation": "Italy",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/5/50/GarageImage_ZSU-23-4_%28Italy%29.jpg/500px-GarageImage_ZSU-23-4_%28Italy%29.jpg",
+        "captured": true,
+        "subNation": "Hungary"
+    },
+    {
+        "name": "M113A1 (TOW)",
+        "type": "Land",
+        "nation": "Italy",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/3/3f/GarageImage_M113A1_%28TOW%29.jpg/500px-GarageImage_M113A1_%28TOW%29.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Leopard 1A5",
+        "type": "Land",
+        "nation": "Italy",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/4/49/GarageImage_Leopard_1A5_%28Italy%29.jpg/500px-GarageImage_Leopard_1A5_%28Italy%29.jpg",
+        "captured": true,
+        "subNation": ""
+    },
+    {
+        "name": "T-72M1",
+        "type": "Land",
+        "nation": "Italy",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/1/13/GarageImage_T-72M1_%28Italy%29.jpg/500px-GarageImage_T-72M1_%28Italy%29.jpg",
+        "captured": true,
+        "subNation": "Hungary"
+    },
+    {
+        "name": "Centauro I 105 R",
+        "type": "Land",
+        "nation": "Italy",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/b/ba/GarageImage_Centauro_I_105_R.jpg/500px-GarageImage_Centauro_I_105_R.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "OF-40 Mk.2A",
+        "type": "Land",
+        "nation": "Italy",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/3/32/GarageImage_OF-40_Mk.2A.jpg/500px-GarageImage_OF-40_Mk.2A.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Centauro I 105",
+        "type": "Land",
+        "nation": "Italy",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/7/79/GarageImage_Centauro_I_105.jpg/500px-GarageImage_Centauro_I_105.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "VBC (PT2)",
+        "type": "Land",
+        "nation": "Italy",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/b/b0/GarageImage_VBC_%28PT2%29.jpg/500px-GarageImage_VBC_%28PT2%29.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "F-86K",
+        "type": "Air",
+        "nation": "Italy",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/b/b3/GarageImage_F-86K_%28Italy%29.jpg/500px-GarageImage_F-86K_%28Italy%29.jpg",
+        "captured": true,
+        "subNation": ""
+    },
+    {
+        "name": "Sagittario 2",
+        "type": "Air",
+        "nation": "Italy",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/0/0e/GarageImage_Sagittario_2.jpg/500px-GarageImage_Sagittario_2.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "F-84F",
+        "type": "Air",
+        "nation": "Italy",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/5/53/GarageImage_F-84F_%28Italy%29.jpg/500px-GarageImage_F-84F_%28Italy%29.jpg",
+        "captured": true,
+        "subNation": ""
+    },
+    {
+        "name": "F-104G",
+        "type": "Air",
+        "nation": "Italy",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/d/d8/GarageImage_F-104G_%28Italy%29.jpg/500px-GarageImage_F-104G_%28Italy%29.jpg",
+        "captured": true,
+        "subNation": ""
+    },
+    {
+        "name": "G.91 Y",
+        "type": "Air",
+        "nation": "Italy",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/f/f2/GarageImage_G.91_Y.jpg/500px-GarageImage_G.91_Y.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "G.91 YS",
+        "type": "Air",
+        "nation": "Italy",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/9/9d/GarageImage_G.91_YS.jpg/500px-GarageImage_G.91_YS.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "A.109EOA-2",
+        "type": "Air",
+        "nation": "Italy",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/e/e5/GarageImage_A.109EOA-2.jpg/500px-GarageImage_A.109EOA-2.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Mi-24V",
+        "type": "Air",
+        "nation": "Italy",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/e/e8/GarageImage_Mi-24V_%28Italy%29.jpg/500px-GarageImage_Mi-24V_%28Italy%29.jpg",
+        "captured": true,
+        "subNation": "Hungary"
+    },
+    {
+        "name": "RN Duilio",
+        "type": "Sea",
+        "nation": "Italy",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/8/83/GarageImage_RN_Duilio.jpg/500px-GarageImage_RN_Duilio.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "RN Conte di Cavour",
+        "type": "Sea",
+        "nation": "Italy",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/7/7c/GarageImage_RN_Conte_di_Cavour.jpg/500px-GarageImage_RN_Conte_di_Cavour.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Ariete (P)",
+        "type": "Land",
+        "nation": "Italy",
+        "rank": 7,
+        "image": "https://wiki.warthunder.com/images/thumb/a/aa/GarageImage_Ariete_%28P%29.jpg/500px-GarageImage_Ariete_%28P%29.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Leopard 2A4",
+        "type": "Land",
+        "nation": "Italy",
+        "rank": 7,
+        "image": "https://wiki.warthunder.com/images/thumb/a/a7/GarageImage_Leopard_2A4_%28Italy%29.jpg/500px-GarageImage_Leopard_2A4_%28Italy%29.jpg",
+        "captured": true,
+        "subNation": "Hungary"
+    },
+    {
+        "name": "Ariete PSO",
+        "type": "Land",
+        "nation": "Italy",
+        "rank": 7,
+        "image": "https://wiki.warthunder.com/images/thumb/6/6d/GarageImage_Ariete_PSO.jpg/500px-GarageImage_Ariete_PSO.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "KF41",
+        "type": "Land",
+        "nation": "Italy",
+        "rank": 7,
+        "image": "https://wiki.warthunder.com/images/thumb/5/5c/GarageImage_KF41.jpg/500px-GarageImage_KF41.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Dardo",
+        "type": "Land",
+        "nation": "Italy",
+        "rank": 7,
+        "image": "https://wiki.warthunder.com/images/thumb/4/41/GarageImage_Dardo.jpg/500px-GarageImage_Dardo.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "OTOMATIC",
+        "type": "Land",
+        "nation": "Italy",
+        "rank": 7,
+        "image": "https://wiki.warthunder.com/images/thumb/1/1c/GarageImage_OTOMATIC.jpg/500px-GarageImage_OTOMATIC.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Freccia",
+        "type": "Land",
+        "nation": "Italy",
+        "rank": 7,
+        "image": "https://wiki.warthunder.com/images/thumb/0/0a/GarageImage_Freccia.jpg/500px-GarageImage_Freccia.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Centauro I 120",
+        "type": "Land",
+        "nation": "Italy",
+        "rank": 7,
+        "image": "https://wiki.warthunder.com/images/thumb/5/57/GarageImage_Centauro_I_120.jpg/500px-GarageImage_Centauro_I_120.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "SIDAM 25 (Mistral)",
+        "type": "Land",
+        "nation": "Italy",
+        "rank": 7,
+        "image": "https://wiki.warthunder.com/images/thumb/1/19/GarageImage_SIDAM_25_%28Mistral%29.jpg/500px-GarageImage_SIDAM_25_%28Mistral%29.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "VCC-80/30",
+        "type": "Land",
+        "nation": "Italy",
+        "rank": 7,
+        "image": "https://wiki.warthunder.com/images/thumb/7/7e/GarageImage_VCC-80-30.jpg/500px-GarageImage_VCC-80-30.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Ariete",
+        "type": "Land",
+        "nation": "Italy",
+        "rank": 7,
+        "image": "https://wiki.warthunder.com/images/thumb/e/e7/GarageImage_Ariete.jpg/500px-GarageImage_Ariete.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Ariete AMV",
+        "type": "Land",
+        "nation": "Italy",
+        "rank": 7,
+        "image": "https://wiki.warthunder.com/images/thumb/3/39/GarageImage_Ariete_AMV.jpg/500px-GarageImage_Ariete_AMV.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "F-104S",
+        "type": "Air",
+        "nation": "Italy",
+        "rank": 7,
+        "image": "https://wiki.warthunder.com/images/thumb/f/f9/GarageImage_F-104S.jpg/500px-GarageImage_F-104S.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "F-104S.ASA",
+        "type": "Air",
+        "nation": "Italy",
+        "rank": 7,
+        "image": "https://wiki.warthunder.com/images/thumb/e/e6/GarageImage_F-104S.ASA.jpg/500px-GarageImage_F-104S.ASA.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "AMX",
+        "type": "Air",
+        "nation": "Italy",
+        "rank": 7,
+        "image": "https://wiki.warthunder.com/images/thumb/0/0d/GarageImage_AMX.jpg/500px-GarageImage_AMX.jpg",
+        "captured": true,
+        "subNation": ""
+    },
+    {
+        "name": "A129CBT",
+        "type": "Air",
+        "nation": "Italy",
+        "rank": 7,
+        "image": "https://wiki.warthunder.com/images/thumb/8/8b/GarageImage_A129CBT.jpg/500px-GarageImage_A129CBT.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "AH-129D",
+        "type": "Air",
+        "nation": "Italy",
+        "rank": 7,
+        "image": "https://wiki.warthunder.com/images/thumb/f/fe/GarageImage_AH-129D.jpg/500px-GarageImage_AH-129D.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "AMX",
+        "type": "Air",
+        "nation": "Italy",
+        "rank": 7,
+        "image": "https://wiki.warthunder.com/images/thumb/0/0d/GarageImage_AMX.jpg/500px-GarageImage_AMX.jpg",
+        "captured": true,
+        "subNation": ""
+    },
+    {
+        "name": "F-16A ADF",
+        "type": "Air",
+        "nation": "Italy",
+        "rank": 8,
+        "image": "https://wiki.warthunder.com/images/thumb/6/65/GarageImage_F-16A_ADF_%28Italy%29.jpg/500px-GarageImage_F-16A_ADF_%28Italy%29.jpg",
+        "captured": true,
+        "subNation": ""
+    },
+    {
+        "name": "Tornado ADV",
+        "type": "Air",
+        "nation": "Italy",
+        "rank": 8,
+        "image": "https://wiki.warthunder.com/images/thumb/1/1e/GarageImage_Tornado_ADV.jpg/500px-GarageImage_Tornado_ADV.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Tornado IDS (1995)",
+        "type": "Air",
+        "nation": "Italy",
+        "rank": 8,
+        "image": "https://wiki.warthunder.com/images/thumb/7/7c/GarageImage_Tornado_IDS_%281995%29_%28Italy%29.jpg/500px-GarageImage_Tornado_IDS_%281995%29_%28Italy%29.jpg",
+        "captured": true,
+        "subNation": ""
+    },
+    {
+        "name": "AV-8B Plus",
+        "type": "Air",
+        "nation": "Italy",
+        "rank": 8,
+        "image": "https://wiki.warthunder.com/images/thumb/3/36/GarageImage_AV-8B_Plus_%28Italy%29.jpg/500px-GarageImage_AV-8B_Plus_%28Italy%29.jpg",
+        "captured": true,
+        "subNation": ""
+    }
+]

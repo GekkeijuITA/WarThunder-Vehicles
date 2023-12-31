@@ -1,0 +1,1737 @@
+[
+    {
+        "name": "M2A4",
+        "type": "Land",
+        "nation": "USA",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/f/f5/GarageImage_M2A4.jpg/500px-GarageImage_M2A4.jpg"
+    },
+    {
+        "name": "M2",
+        "type": "Land",
+        "nation": "USA",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/2/2f/GarageImage_M2.jpg/500px-GarageImage_M2.jpg"
+    },
+    {
+        "name": "LVT(A)(1)",
+        "type": "Land",
+        "nation": "USA",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/9/97/GarageImage_LVT%28A%29%281%29.jpg/500px-GarageImage_LVT%28A%29%281%29.jpg"
+    },
+    {
+        "name": "M13 MGMC",
+        "type": "Land",
+        "nation": "USA",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/9/9e/GarageImage_M13_MGMC.jpg/500px-GarageImage_M13_MGMC.jpg"
+    },
+    {
+        "name": "M2A2",
+        "type": "Land",
+        "nation": "USA",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/6/69/GarageImage_M2A2.jpg/500px-GarageImage_M2A2.jpg"
+    },
+    {
+        "name": "M3 Stuart",
+        "type": "Land",
+        "nation": "USA",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/5/5b/GarageImage_M3_Stuart.jpg/500px-GarageImage_M3_Stuart.jpg"
+    },
+    {
+        "name": "M22",
+        "type": "Land",
+        "nation": "USA",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/c/cb/GarageImage_M22.jpg/500px-GarageImage_M22.jpg"
+    },
+    {
+        "name": "M15 CGMC",
+        "type": "Land",
+        "nation": "USA",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/6/60/GarageImage_M15_CGMC.jpg/500px-GarageImage_M15_CGMC.jpg"
+    },
+    {
+        "name": "M8 HMC",
+        "type": "Land",
+        "nation": "USA",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/d/d3/GarageImage_M8_Scott.jpg/500px-GarageImage_M8_Scott.jpg"
+    },
+    {
+        "name": "M3A1 Stuart",
+        "type": "Land",
+        "nation": "USA",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/d/d5/GarageImage_M3A1_Stuart.jpg/500px-GarageImage_M3A1_Stuart.jpg"
+    },
+    {
+        "name": "M3 GMC",
+        "type": "Land",
+        "nation": "USA",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/1/19/GarageImage_M3_GMC.jpg/500px-GarageImage_M3_GMC.jpg"
+    },
+    {
+        "name": "P26A-34 M2",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/9/96/GarageImage_P-26A-34_M2.jpg/500px-GarageImage_P-26A-34_M2.jpg"
+    },
+    {
+        "name": "P-36A",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/5/5d/GarageImage_P-36A.jpg/500px-GarageImage_P-36A.jpg"
+    },
+    {
+        "name": "BF2C-1",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/9/97/GarageImage_BF2C-1.jpg/500px-GarageImage_BF2C-1.jpg"
+    },
+    {
+        "name": "OS2U-1",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/d/de/GarageImage_OS2U-1.jpg/500px-GarageImage_OS2U-1.jpg"
+    },
+    {
+        "name": "OS2U-3",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/e/e5/GarageImage_OS2U-3.jpg/500px-GarageImage_OS2U-3.jpg"
+    },
+    {
+        "name": "TBD-1",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/1/13/GarageImage_TBD-1.jpg/500px-GarageImage_TBD-1.jpg"
+    },
+    {
+        "name": "B-18A",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/2/26/GarageImage_B-18A.jpg/500px-GarageImage_B-18A.jpg"
+    },
+    {
+        "name": "P-26A-33",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/d/d7/GarageImage_P-26A-33.jpg/500px-GarageImage_P-26A-33.jpg"
+    },
+    {
+        "name": "P-26B-35",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/c/c4/GarageImage_P-26B-35.jpg/500px-GarageImage_P-26B-35.jpg"
+    },
+    {
+        "name": "P-36C",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/2/2b/GarageImage_P-36C.jpg/500px-GarageImage_P-36C.jpg"
+    },
+    {
+        "name": "F3F-2",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/3/39/GarageImage_F3F-2.jpg/500px-GarageImage_F3F-2.jpg"
+    },
+    {
+        "name": "SB2U-2",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/2/2f/GarageImage_SB2U-2.jpg/500px-GarageImage_SB2U-2.jpg"
+    },
+    {
+        "name": "SB2U-3",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/5/50/GarageImage_SB2U-3.jpg/500px-GarageImage_SB2U-3.jpg"
+    },
+    {
+        "name": "PBY-5 Catalina",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/6/6c/GarageImage_PBY-5_Catalina.jpg/500px-GarageImage_PBY-5_Catalina.jpg"
+    },
+    {
+        "name": "PBY-5A Catalina",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/8/8f/GarageImage_PBY-5A_Catalina.jpg/500px-GarageImage_PBY-5A_Catalina.jpg"
+    },
+    {
+        "name": "F2A-1",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/9/99/GarageImage_F2A-1.jpg/500px-GarageImage_F2A-1.jpg"
+    },
+    {
+        "name": "TBF-1C",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/c/ce/GarageImage_TBF-1C.jpg/500px-GarageImage_TBF-1C.jpg"
+    },
+    {
+        "name": "SBD-3",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/e/ef/GarageImage_SBD-3.jpg/500px-GarageImage_SBD-3.jpg"
+    },
+    {
+        "name": "PBM-1 \"Mariner\"",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/0/09/GarageImage_PBM-1_%22Mariner%22.jpg/500px-GarageImage_PBM-1_%22Mariner%22.jpg"
+    },
+    {
+        "name": "PT-6",
+        "type": "Sea",
+        "nation": "USA",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/2/2a/GarageImage_PT-6.jpg"
+    },
+    {
+        "name": "PT-20",
+        "type": "Sea",
+        "nation": "USA",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/5/51/GarageImage_PT-20.jpg"
+    },
+    {
+        "name": "PTF-7",
+        "type": "Sea",
+        "nation": "USA",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/d/d3/GarageImage_PTF-7.jpg"
+    },
+    {
+        "name": "USS Litchfield",
+        "type": "Sea",
+        "nation": "USA",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/4/46/GarageImage_USS_Litchfield.jpg/1600px-GarageImage_USS_Litchfield.jpg"
+    },
+    {
+        "name": "USS Barker",
+        "type": "Sea",
+        "nation": "USA",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/c/c4/GarageImage_USS_Barker.jpg/1600px-GarageImage_USS_Barker.jpg"
+    },
+    {
+        "name": "USS Alywin",
+        "type": "Sea",
+        "nation": "USA",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/e/ea/GarageImage_USS_Aylwin.jpg/1600px-GarageImage_USS_Aylwin.jpg"
+    },
+    {
+        "name": "M5A1",
+        "type": "Land",
+        "nation": "USA",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/1/1c/GarageImage_M5A1.jpg/500px-GarageImage_M5A1.jpg"
+    },
+    {
+        "name": "M3 Lee",
+        "type": "Land",
+        "nation": "USA",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/0/04/GarageImage_M3_Lee.jpg/500px-GarageImage_M3_Lee.jpg"
+    },
+    {
+        "name": "M16 MGMC",
+        "type": "Land",
+        "nation": "USA",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/2/23/GarageImage_M16_MGMC.jpg/500px-GarageImage_M16_MGMC.jpg"
+    },
+    {
+        "name": "M4A3 (105)",
+        "type": "Land",
+        "nation": "USA",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/5/50/GarageImage_M4A3_%28105%29.jpg/500px-GarageImage_M4A3_%28105%29.jpg"
+    },
+    {
+        "name": "M24",
+        "type": "Land",
+        "nation": "USA",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/1/10/GarageImage_M24.jpg/500px-GarageImage_M24.jpg"
+    },
+    {
+        "name": "M4A1",
+        "type": "Land",
+        "nation": "USA",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/a/a6/GarageImage_M4A1.jpg/500px-GarageImage_M4A1.jpg"
+    },
+    {
+        "name": "M4",
+        "type": "Land",
+        "nation": "USA",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/9/9f/GarageImage_M4.jpg/500px-GarageImage_M4.jpg"
+    },
+    {
+        "name": "M4A2",
+        "type": "Land",
+        "nation": "USA",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/6/64/GarageImage_M4A2.jpg/500px-GarageImage_M4A2.jpg"
+    },
+    {
+        "name": "M10 GMC",
+        "type": "Land",
+        "nation": "USA",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/5/5c/GarageImage_M10_GMC.jpg/500px-GarageImage_M10_GMC.jpg"
+    },
+    {
+        "name": "P-400",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/d/da/GarageImage_P-400.jpg/500px-GarageImage_P-400.jpg"
+    },
+    {
+        "name": "P-36G",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/4/4c/GarageImage_P-36G.jpg/500px-GarageImage_P-36G.jpg"
+    },
+    {
+        "name": "F2A-3",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/8/8e/GarageImage_F2A-3.jpg/500px-GarageImage_F2A-3.jpg"
+    },
+    {
+        "name": "A-36",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/6/6c/GarageImage_A-36.jpg/500px-GarageImage_A-36.jpg"
+    },
+    {
+        "name": "B-34",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/3/3d/GarageImage_B-34.jpg/500px-GarageImage_B-34.jpg"
+    },
+    {
+        "name": "P-38E",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/d/d8/GarageImage_P-38E.jpg/500px-GarageImage_P-38E.jpg"
+    },
+    {
+        "name": "P-38G-1",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/4/4a/GarageImage_P-38G-1.jpg/500px-GarageImage_P-38G-1.jpg"
+    },
+    {
+        "name": "P-40E-1",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/e/ed/GarageImage_P-40E-1.jpg/500px-GarageImage_P-40E-1.jpg"
+    },
+    {
+        "name": "P-40F-10",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/5/55/GarageImage_P-40F-10.jpg/500px-GarageImage_P-40F-10.jpg"
+    },
+    {
+        "name": "F4F-3",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/f/fa/GarageImage_F4F-3.jpg/500px-GarageImage_F4F-3.jpg"
+    },
+    {
+        "name": "F4F-4",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/3/39/GarageImage_F4F-4.jpg/500px-GarageImage_F4F-4.jpg"
+    },
+    {
+        "name": "F6F-5",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/8/80/GarageImage_F6F-5.jpg/500px-GarageImage_F6F-5.jpg"
+    },
+    {
+        "name": "A-20G-25",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/d/d1/GarageImage_A-20G-25.jpg/500px-GarageImage_A-20G-25.jpg"
+    },
+    {
+        "name": "B-25J-1",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/c/c2/GarageImage_B-25J-1.jpg/500px-GarageImage_B-25J-1.jpg"
+    },
+    {
+        "name": "P-39N-0",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/4/45/GarageImage_P-39N-0.jpg/500px-GarageImage_P-39N-0.jpg"
+    },
+    {
+        "name": "P-39Q-5",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/e/eb/GarageImage_P-39Q-5.jpg/500px-GarageImage_P-39Q-5.jpg"
+    },
+    {
+        "name": "P-51C-10",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/e/e4/GarageImage_P-51C-10.jpg/500px-GarageImage_P-51C-10.jpg"
+    },
+    {
+        "name": "F4U-1A",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/e/e7/GarageImage_F4U-1A.jpg/500px-GarageImage_F4U-1A.jpg"
+    },
+    {
+        "name": "F4U-1A (USMC)",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/b/b3/GarageImage_F4U-1A_%28USMC%29.jpg/500px-GarageImage_F4U-1A_%28USMC%29.jpg"
+    },
+    {
+        "name": "F4U-1D",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/6/62/GarageImage_F4U-1D.jpg/500px-GarageImage_F4U-1D.jpg"
+    },
+    {
+        "name": "SB2C-1C",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/7/70/GarageImage_SB2C-1C.jpg/500px-GarageImage_SB2C-1C.jpg"
+    },
+    {
+        "name": "SB2C-4",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/b/b2/GarageImage_SB2C-4.jpg/500px-GarageImage_SB2C-4.jpg"
+    },
+    {
+        "name": "B-25J-20",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/a/ae/GarageImage_B-25J-20.jpg/500px-GarageImage_B-25J-20.jpg"
+    },
+    {
+        "name": "PT-103",
+        "type": "Sea",
+        "nation": "USA",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/e/ef/GarageImage_PT-103.jpg"
+    },
+    {
+        "name": "PC-451",
+        "type": "Sea",
+        "nation": "USA",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/a/af/GarageImage_PC-451.jpg"
+    },
+    {
+        "name": "PT-71",
+        "type": "Sea",
+        "nation": "USA",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/9/98/GarageImage_PT-71.jpg"
+    },
+    {
+        "name": "C-497",
+        "type": "Sea",
+        "nation": "USA",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/4/44/GarageImage_SC-497.jpg"
+    },
+    {
+        "name": "USS Sumner",
+        "type": "Sea",
+        "nation": "USA",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/8/88/GarageImage_USS_Sumner.jpg/1600px-GarageImage_USS_Sumner.jpg"
+    },
+    {
+        "name": "USS Fletcher",
+        "type": "Sea",
+        "nation": "USA",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/8/81/GarageImage_USS_Fletcher.jpg/1600px-GarageImage_USS_Fletcher.jpg"
+    },
+    {
+        "name": "USS Gearing",
+        "type": "Sea",
+        "nation": "USA",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/f/f5/GarageImage_USS_Gearing.jpg/1600px-GarageImage_USS_Gearing.jpg"
+    },
+    {
+        "name": "USS Mitscher",
+        "type": "Sea",
+        "nation": "USA",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/d/de/GarageImage_USS_Mitscher.jpg/1600px-GarageImage_USS_Mitscher.jpg"
+    },
+    {
+        "name": "M18 GMC",
+        "type": "Land",
+        "nation": "USA",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/a/a5/GarageImage_M18_GMC.jpg/500px-GarageImage_M18_GMC.jpg"
+    },
+    {
+        "name": "M4A1 (76) W",
+        "type": "Land",
+        "nation": "USA",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/3/34/GarageImage_M4A1_%2876%29_W.jpg/500px-GarageImage_M4A1_%2876%29_W.jpg"
+    },
+    {
+        "name": "M6A1",
+        "type": "Land",
+        "nation": "USA",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/e/e6/GarageImage_M6A1.jpg/500px-GarageImage_M6A1.jpg"
+    },
+    {
+        "name": "T1E1",
+        "type": "Land",
+        "nation": "USA",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/5/5b/GarageImage_T1E1.jpg/500px-GarageImage_T1E1.jpg"
+    },
+    {
+        "name": "M19A1",
+        "type": "Land",
+        "nation": "USA",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/3/36/GarageImage_M19A1.jpg/500px-GarageImage_M19A1.jpg"
+    },
+    {
+        "name": "M36",
+        "type": "Land",
+        "nation": "USA",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/3/32/GarageImage_M36_GMC.jpg/500px-GarageImage_M36_GMC.jpg"
+    },
+    {
+        "name": "M36B2",
+        "type": "Land",
+        "nation": "USA",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/d/d0/GarageImage_M36B2.jpg/500px-GarageImage_M36B2.jpg"
+    },
+    {
+        "name": "M4A2 (76) W",
+        "type": "Land",
+        "nation": "USA",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/8/86/GarageImage_M4A2_%2876%29_W.jpg/500px-GarageImage_M4A2_%2876%29_W.jpg"
+    },
+    {
+        "name": "M4A3 (76) W",
+        "type": "Land",
+        "nation": "USA",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/5/56/GarageImage_M4A3_%2876%29_W.jpg/500px-GarageImage_M4A3_%2876%29_W.jpg"
+    },
+    {
+        "name": "M4A3E2",
+        "type": "Land",
+        "nation": "USA",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/b/b4/GarageImage_M4A3E2.jpg/500px-GarageImage_M4A3E2.jpg"
+    },
+    {
+        "name": "M42",
+        "type": "Land",
+        "nation": "USA",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/3/31/GarageImage_M42.jpg/500px-GarageImage_M42.jpg"
+    },
+    {
+        "name": "P-63A-5",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/4/40/GarageImage_P-63A-5.jpg/500px-GarageImage_P-63A-5.jpg"
+    },
+    {
+        "name": "P-51",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/3/36/GarageImage_P-51.jpg/500px-GarageImage_P-51.jpg"
+    },
+    {
+        "name": "P-51D-5",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/1/1c/GarageImage_P-51D-5.jpg/500px-GarageImage_P-51D-5.jpg"
+    },
+    {
+        "name": "F4U-4",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/d/d2/GarageImage_F4U-4.jpg/500px-GarageImage_F4U-4.jpg"
+    },
+    {
+        "name": "PBJ-1J",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/f/f5/GarageImage_PBJ-1J.jpg/500px-GarageImage_PBJ-1J.jpg"
+    },
+    {
+        "name": "PBJ-1H",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/9/93/GarageImage_PBJ-1H.jpg/500px-GarageImage_PBJ-1H.jpg"
+    },
+    {
+        "name": "B-26B",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/0/0c/GarageImage_B-26B.jpg/500px-GarageImage_B-26B.jpg"
+    },
+    {
+        "name": "P-63A-10",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/b/b7/GarageImage_P-63A-10.jpg/500px-GarageImage_P-63A-10.jpg"
+    },
+    {
+        "name": "P-63C-5",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/3/34/GarageImage_P-63C-5.jpg/500px-GarageImage_P-63C-5.jpg"
+    },
+    {
+        "name": "P-47D-22-RE",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/6/6c/GarageImage_P-47D-22-RE.jpg/500px-GarageImage_P-47D-22-RE.jpg"
+    },
+    {
+        "name": "P-47D-25",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/c/c6/GarageImage_P-47D-25.jpg/500px-GarageImage_P-47D-25.jpg"
+    },
+    {
+        "name": "F8F-1",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/7/7d/GarageImage_F8F-1.jpg/500px-GarageImage_F8F-1.jpg"
+    },
+    {
+        "name": "P-61C-1",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/4/43/GarageImage_P-61C-1.jpg/500px-GarageImage_P-61C-1.jpg"
+    },
+    {
+        "name": "B-17E",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/a/ac/GarageImage_B-17E.jpg/500px-GarageImage_B-17E.jpg"
+    },
+    {
+        "name": "B-17E/L",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/b/b3/GarageImage_B-17EL.jpg/500px-GarageImage_B-17EL.jpg"
+    },
+    {
+        "name": "P-38J-15",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/b/b7/GarageImage_P-38J-15.jpg/500px-GarageImage_P-38J-15.jpg"
+    },
+    {
+        "name": "P-38L-5-LO",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/b/b9/GarageImage_P-38L-5-LO.jpg/500px-GarageImage_P-38L-5-LO.jpg"
+    },
+    {
+        "name": "P-47D-28",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/4/43/GarageImage_P-47D-28.jpg/500px-GarageImage_P-47D-28.jpg"
+    },
+    {
+        "name": "P-47N-15",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/b/bf/GarageImage_P-47N-15.jpg/500px-GarageImage_P-47N-15.jpg"
+    },
+    {
+        "name": "F6F-5N",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/f/fe/GarageImage_F6F-5N.jpg/500px-GarageImage_F6F-5N.jpg"
+    },
+    {
+        "name": "PB4Y-2",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/b/b2/GarageImage_PB4Y-2.jpg/500px-GarageImage_PB4Y-2.jpg"
+    },
+    {
+        "name": "PT-314",
+        "type": "Sea",
+        "nation": "USA",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/7/7c/GarageImage_PT-314.jpg"
+    },
+    {
+        "name": "PT-200",
+        "type": "Sea",
+        "nation": "USA",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/b/b5/GarageImage_PT-200.jpg"
+    },
+    {
+        "name": "Kim Qui",
+        "type": "Sea",
+        "nation": "USA",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/1/15/GarageImage_Kim_Qui.jpg/1600px-GarageImage_Kim_Qui.jpg"
+    },
+    {
+        "name": "PT-565",
+        "type": "Sea",
+        "nation": "USA",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/d/d1/GarageImage_PT-565.jpg"
+    },
+    {
+        "name": "PT-59",
+        "type": "Sea",
+        "nation": "USA",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/2/26/GarageImage_PT-59.jpg"
+    },
+    {
+        "name": "USS Porter",
+        "type": "Sea",
+        "nation": "USA",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/7/78/GarageImage_USS_Porter.jpg/1600px-GarageImage_USS_Porter.jpg"
+    },
+    {
+        "name": "USS Trenton",
+        "type": "Sea",
+        "nation": "USA",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/9/9c/GarageImage_USS_Trenton.jpg/1600px-GarageImage_USS_Trenton.jpg"
+    },
+    {
+        "name": "USS Somers",
+        "type": "Sea",
+        "nation": "USA",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/4/4a/GarageImage_USS_Somers.jpg/1600px-GarageImage_USS_Somers.jpg"
+    },
+    {
+        "name": "USS Raleigh",
+        "type": "Sea",
+        "nation": "USA",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/d/d1/GarageImage_USS_Raleigh.jpg/1600px-GarageImage_USS_Raleigh.jpg"
+    },
+    {
+        "name": "M41A1",
+        "type": "Land",
+        "nation": "USA",
+        "rank": 4,
+        "image": "https://wiki.warthunder.com/images/thumb/2/24/GarageImage_M41A1.jpg/500px-GarageImage_M41A1.jpg"
+    },
+    {
+        "name": "M4 T26",
+        "type": "Land",
+        "nation": "USA",
+        "rank": 4,
+        "image": "https://wiki.warthunder.com/images/thumb/4/40/GarageImage_M4-T26.jpg/500px-GarageImage_M4-T26.jpg"
+    },
+    {
+        "name": "T25",
+        "type": "Land",
+        "nation": "USA",
+        "rank": 4,
+        "image": "https://wiki.warthunder.com/images/thumb/7/79/GarageImage_T25.jpg/500px-GarageImage_T25.jpg"
+    },
+    {
+        "name": "M4A3E2 (76) W",
+        "type": "Land",
+        "nation": "USA",
+        "rank": 4,
+        "image": "https://wiki.warthunder.com/images/thumb/2/2c/GarageImage_M4A3E2_%2876%29_W.jpg/500px-GarageImage_M4A3E2_%2876%29_W.jpg"
+    },
+    {
+        "name": "M56",
+        "type": "Land",
+        "nation": "USA",
+        "rank": 4,
+        "image": "https://wiki.warthunder.com/images/thumb/c/c0/GarageImage_M56.jpg/500px-GarageImage_M56.jpg"
+    },
+    {
+        "name": "T92",
+        "type": "Land",
+        "nation": "USA",
+        "rank": 4,
+        "image": "https://wiki.warthunder.com/images/thumb/9/98/GarageImage_T92.jpg/500px-GarageImage_T92.jpg"
+    },
+    {
+        "name": "M26",
+        "type": "Land",
+        "nation": "USA",
+        "rank": 4,
+        "image": "https://wiki.warthunder.com/images/thumb/4/43/GarageImage_M26.jpg/500px-GarageImage_M26.jpg"
+    },
+    {
+        "name": "T26E5",
+        "type": "Land",
+        "nation": "USA",
+        "rank": 4,
+        "image": "https://wiki.warthunder.com/images/thumb/0/06/GarageImage_T26E5.jpg/500px-GarageImage_T26E5.jpg"
+    },
+    {
+        "name": "T26E1-1",
+        "type": "Land",
+        "nation": "USA",
+        "rank": 4,
+        "image": "https://wiki.warthunder.com/images/thumb/4/45/GarageImage_T26E1-1.jpg/500px-GarageImage_T26E1-1.jpg"
+    },
+    {
+        "name": "M50",
+        "type": "Land",
+        "nation": "USA",
+        "rank": 4,
+        "image": "https://wiki.warthunder.com/images/thumb/1/1a/GarageImage_M50.jpg/500px-GarageImage_M50.jpg"
+    },
+    {
+        "name": "M46",
+        "type": "Land",
+        "nation": "USA",
+        "rank": 4,
+        "image": "https://wiki.warthunder.com/images/thumb/0/0c/GarageImage_M46.jpg/500px-GarageImage_M46.jpg"
+    },
+    {
+        "name": "T34",
+        "type": "Land",
+        "nation": "USA",
+        "rank": 4,
+        "image": "https://wiki.warthunder.com/images/thumb/a/ac/GarageImage_T34.jpg/500px-GarageImage_T34.jpg"
+    },
+    {
+        "name": "F-82E",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 4,
+        "image": "https://wiki.warthunder.com/images/thumb/e/e3/GarageImage_F-82E.jpg/500px-GarageImage_F-82E.jpg"
+    },
+    {
+        "name": "P-51D-30",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 4,
+        "image": "https://wiki.warthunder.com/images/thumb/c/cd/GarageImage_P-51D-30.jpg/500px-GarageImage_P-51D-30.jpg"
+    },
+    {
+        "name": "F4U-1C",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 4,
+        "image": "https://wiki.warthunder.com/images/thumb/c/c6/GarageImage_F4U-1C.jpg/500px-GarageImage_F4U-1C.jpg"
+    },
+    {
+        "name": "F4U-4B",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 4,
+        "image": "https://wiki.warthunder.com/images/thumb/f/ff/GarageImage_F4U-4B.jpg/500px-GarageImage_F4U-4B.jpg"
+    },
+    {
+        "name": "A-26B-10",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 4,
+        "image": "https://wiki.warthunder.com/images/thumb/0/09/GarageImage_A-26B-10.jpg/500px-GarageImage_A-26B-10.jpg"
+    },
+    {
+        "name": "A-26B-50",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 4,
+        "image": "https://wiki.warthunder.com/images/thumb/3/3c/GarageImage_A-26B-50.jpg/500px-GarageImage_A-26B-50.jpg"
+    },
+    {
+        "name": "B-17G-60-VE",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 4,
+        "image": "https://wiki.warthunder.com/images/thumb/7/7f/GarageImage_B-17G-60-VE.jpg/500px-GarageImage_B-17G-60-VE.jpg"
+    },
+    {
+        "name": "B-24D-25-CO",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 4,
+        "image": "https://wiki.warthunder.com/images/thumb/d/d6/GarageImage_B-24D-25-CO.jpg/500px-GarageImage_B-24D-25-CO.jpg"
+    },
+    {
+        "name": "P-51H-5-NA",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 4,
+        "image": "https://wiki.warthunder.com/images/thumb/9/91/GarageImage_P-51H-5-NA.jpg/500px-GarageImage_P-51H-5-NA.jpg"
+    },
+    {
+        "name": "F8F-1B",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 4,
+        "image": "https://wiki.warthunder.com/images/thumb/7/7d/GarageImage_F8F-1B.jpg/500px-GarageImage_F8F-1B.jpg"
+    },
+    {
+        "name": "F7F-1",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 4,
+        "image": "https://wiki.warthunder.com/images/thumb/0/00/GarageImage_F7F-1.jpg/500px-GarageImage_F7F-1.jpg"
+    },
+    {
+        "name": "AD-2",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 4,
+        "image": "https://wiki.warthunder.com/images/thumb/c/cc/GarageImage_AD-2.jpg/500px-GarageImage_AD-2.jpg"
+    },
+    {
+        "name": "AD-4",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 4,
+        "image": "https://wiki.warthunder.com/images/thumb/f/f2/GarageImage_AD-4.jpg/500px-GarageImage_AD-4.jpg"
+    },
+    {
+        "name": "AM-1",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 4,
+        "image": "https://wiki.warthunder.com/images/thumb/e/e7/GarageImage_AM-1.jpg/500px-GarageImage_AM-1.jpg"
+    },
+    {
+        "name": "B-29A-BN",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 4,
+        "image": "https://wiki.warthunder.com/images/thumb/a/a5/GarageImage_B-29A-BN.jpg/500px-GarageImage_B-29A-BN.jpg"
+    },
+    {
+        "name": "USS Tucumcari",
+        "type": "Sea",
+        "nation": "USA",
+        "rank": 4,
+        "image": "https://wiki.warthunder.com/images/d/d9/GarageImage_USS_Tucumcari.jpg"
+    },
+    {
+        "name": "USS Candid",
+        "type": "Sea",
+        "nation": "USA",
+        "rank": 4,
+        "image": "https://wiki.warthunder.com/images/thumb/a/a5/GarageImage_USS_Candid.jpg/1600px-GarageImage_USS_Candid.jpg"
+    },
+    {
+        "name": "PT-812",
+        "type": "Sea",
+        "nation": "USA",
+        "rank": 4,
+        "image": "https://wiki.warthunder.com/images/thumb/e/e2/GarageImage_PT-812.jpg/1600px-GarageImage_PT-812.jpg"
+    },
+    {
+        "name": "USS Asheville",
+        "type": "Sea",
+        "nation": "USA",
+        "rank": 4,
+        "image": "https://wiki.warthunder.com/images/5/5a/GarageImage_USS_Asheville.jpg"
+    },
+    {
+        "name": "USS Atlanta",
+        "type": "Sea",
+        "nation": "USA",
+        "rank": 4,
+        "image": "https://wiki.warthunder.com/images/thumb/7/79/GarageImage_USS_Atlanta.jpg/1600px-GarageImage_USS_Atlanta.jpg"
+    },
+    {
+        "name": "USS Portland",
+        "type": "Sea",
+        "nation": "USA",
+        "rank": 4,
+        "image": "https://wiki.warthunder.com/images/thumb/d/dc/GarageImage_USS_Portland.jpg/1600px-GarageImage_USS_Portland.jpg"
+    },
+    {
+        "name": "USS Northampton",
+        "type": "Sea",
+        "nation": "USA",
+        "rank": 4,
+        "image": "https://wiki.warthunder.com/images/thumb/f/fe/GarageImage_USS_Northampton.jpg/1600px-GarageImage_USS_Northampton.jpg"
+    },
+    {
+        "name": "USS Pensacola",
+        "type": "Sea",
+        "nation": "USA",
+        "rank": 4,
+        "image": "https://wiki.warthunder.com/images/thumb/3/31/GarageImage_USS_Pensacola.jpg/1600px-GarageImage_USS_Pensacola.jpg"
+    },
+    {
+        "name": "USS New Orleans",
+        "type": "Sea",
+        "nation": "USA",
+        "rank": 4,
+        "image": "https://wiki.warthunder.com/images/thumb/e/e8/GarageImage_USS_New_Orleans.jpg/1600px-GarageImage_USS_New_Orleans.jpg"
+    },
+    {
+        "name": "M47",
+        "type": "Land",
+        "nation": "USA",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/0/0c/GarageImage_M47.jpg/500px-GarageImage_M47.jpg"
+    },
+    {
+        "name": "M48A1",
+        "type": "Land",
+        "nation": "USA",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/6/62/GarageImage_M48A1.jpg/500px-GarageImage_M48A1.jpg"
+    },
+    {
+        "name": "T32",
+        "type": "Land",
+        "nation": "USA",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/4/46/GarageImage_T32.jpg/500px-GarageImage_T32.jpg"
+    },
+    {
+        "name": "T32E1",
+        "type": "Land",
+        "nation": "USA",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/f/f4/GarageImage_T32E1.jpg/500px-GarageImage_T32E1.jpg"
+    },
+    {
+        "name": "M163",
+        "type": "Land",
+        "nation": "USA",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/a/a8/GarageImage_M163.jpg/500px-GarageImage_M163.jpg"
+    },
+    {
+        "name": "T95",
+        "type": "Land",
+        "nation": "USA",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/7/78/GarageImage_T95GMC.jpg/500px-GarageImage_T95GMC.jpg"
+    },
+    {
+        "name": "M60",
+        "type": "Land",
+        "nation": "USA",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/6/6f/GarageImage_M60.jpg/500px-GarageImage_M60.jpg"
+    },
+    {
+        "name": "M103",
+        "type": "Land",
+        "nation": "USA",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/0/0f/GarageImage_M103.jpg/500px-GarageImage_M103.jpg"
+    },
+    {
+        "name": "F-80A-5",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/8/87/GarageImage_F-80A-5.jpg/500px-GarageImage_F-80A-5.jpg"
+    },
+    {
+        "name": "F-84B-26",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/a/a5/GarageImage_F-84B-26.jpg/500px-GarageImage_F-84B-26.jpg"
+    },
+    {
+        "name": "F-84G-21-RE",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/0/0c/GarageImage_F-84G-21-RE.jpg/500px-GarageImage_F-84G-21-RE.jpg"
+    },
+    {
+        "name": "F2H-2",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/9/9c/GarageImage_F2H-2.jpg/500px-GarageImage_F2H-2.jpg"
+    },
+    {
+        "name": "F3D-1",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/0/0d/GarageImage_F3D-1.jpg/500px-GarageImage_F3D-1.jpg"
+    },
+    {
+        "name": "B-57A",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/3/36/GarageImage_B-57A.jpg/500px-GarageImage_B-57A.jpg"
+    },
+    {
+        "name": "B-57B",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/4/40/GarageImage_B-57B.jpg/500px-GarageImage_B-57B.jpg"
+    },
+    {
+        "name": "F-80C-10",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/6/60/GarageImage_F-80C-10.jpg/500px-GarageImage_F-80C-10.jpg"
+    },
+    {
+        "name": "F-86A-5",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/d/d3/GarageImage_F-86A-5.jpg/500px-GarageImage_F-86A-5.jpg"
+    },
+    {
+        "name": "F-86F-25",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/6/60/GarageImage_F-86F-25.jpg/500px-GarageImage_F-86F-25.jpg"
+    },
+    {
+        "name": "F9F-2",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/e/ef/GarageImage_F9F-2.jpg/500px-GarageImage_F9F-2.jpg"
+    },
+    {
+        "name": "F9F-5",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/0/07/GarageImage_F9F-5.jpg/500px-GarageImage_F9F-5.jpg"
+    },
+    {
+        "name": "F9F-8",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/6/64/GarageImage_F9F-8.jpg/500px-GarageImage_F9F-8.jpg"
+    },
+    {
+        "name": "F-84F",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/0/03/GarageImage_F-84F.jpg/500px-GarageImage_F-84F.jpg"
+    },
+    {
+        "name": "AH-1G",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/c/c8/GarageImage_AH-1G.jpg/1600px-GarageImage_AH-1G.jpg"
+    },
+    {
+        "name": "UH-1B",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/a/aa/GarageImage_UH-1B.jpg/1600px-GarageImage_UH-1B.jpg"
+    },
+    {
+        "name": "UH-1C",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/1/15/GarageImage_UH-1C.jpg/1600px-GarageImage_UH-1C.jpg"
+    },
+    {
+        "name": "PT-810",
+        "type": "Sea",
+        "nation": "USA",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/1/1a/GarageImage_PT-810.jpg"
+    },
+    {
+        "name": "LCS(L)(3)",
+        "type": "Sea",
+        "nation": "USA",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/0/0d/GarageImage_LCS%28L%29%283%29.jpg"
+    },
+    {
+        "name": "USS Cyclone",
+        "type": "Sea",
+        "nation": "USA",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/f/fa/GarageImage_USS_Cyclone.jpg/1600px-GarageImage_USS_Cyclone.jpg"
+    },
+    {
+        "name": "USS Hoquiam",
+        "type": "Sea",
+        "nation": "USA",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/d/d4/GarageImage_USS_Hoquiam.jpg/1600px-GarageImage_USS_Hoquiam.jpg"
+    },
+    {
+        "name": "USS Fargo",
+        "type": "Sea",
+        "nation": "USA",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/1/13/GarageImage_USS_Fargo.jpg/1600px-GarageImage_USS_Fargo.jpg"
+    },
+    {
+        "name": "USS Brooklyn",
+        "type": "Sea",
+        "nation": "USA",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/4/40/GarageImage_USS_Brooklyn.jpg/1600px-GarageImage_USS_Brooklyn.jpg"
+    },
+    {
+        "name": "USS Cleveland",
+        "type": "Sea",
+        "nation": "USA",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/c/cd/GarageImage_USS_Cleveland.jpg/1600px-GarageImage_USS_Cleveland.jpg"
+    },
+    {
+        "name": "USS Pittsburgh",
+        "type": "Sea",
+        "nation": "USA",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/b/b4/GarageImage_USS_Pittsburgh.jpg/1600px-GarageImage_USS_Pittsburgh.jpg"
+    },
+    {
+        "name": "USS North Dakota",
+        "type": "Sea",
+        "nation": "USA",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/7/7f/GarageImage_USS_North_Dakota.jpg/1600px-GarageImage_USS_North_Dakota.jpg"
+    },
+    {
+        "name": "USS Wyoming",
+        "type": "Sea",
+        "nation": "USA",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/3/30/GarageImage_USS_Wyoming.jpg/1600px-GarageImage_USS_Wyoming.jpg"
+    },
+    {
+        "name": "USS Roanoke",
+        "type": "Sea",
+        "nation": "USA",
+        "rank": 5,
+        "image": "https://encyclopedia.warthunder.com/i/images/us_cruiser_worcester_class_roanoke.png",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "M551",
+        "type": "Land",
+        "nation": "USA",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/7/72/GarageImage_M551.jpg/500px-GarageImage_M551.jpg"
+    },
+    {
+        "name": "M60A1 (AOS)",
+        "type": "Land",
+        "nation": "USA",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/6/62/GarageImage_M60A1_%28AOS%29.jpg/500px-GarageImage_M60A1_%28AOS%29.jpg"
+    },
+    {
+        "name": "M60A1 RISE (P)",
+        "type": "Land",
+        "nation": "USA",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/2/21/GarageImage_M60A1_RISE_%28P%29.jpg/500px-GarageImage_M60A1_RISE_%28P%29.jpg"
+    },
+    {
+        "name": "T95E1",
+        "type": "Land",
+        "nation": "USA",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/b/bf/GarageImage_T95E1.jpg/500px-GarageImage_T95E1.jpg"
+    },
+    {
+        "name": "M247",
+        "type": "Land",
+        "nation": "USA",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/7/71/GarageImage_M247.jpg/500px-GarageImage_M247.jpg"
+    },
+    {
+        "name": "M60A2",
+        "type": "Land",
+        "nation": "USA",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/2/20/GarageImage_M60A2.jpg/500px-GarageImage_M60A2.jpg"
+    },
+    {
+        "name": "M3 Bradley",
+        "type": "Land",
+        "nation": "USA",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/0/03/GarageImage_M3_Bradley.jpg/500px-GarageImage_M3_Bradley.jpg"
+    },
+    {
+        "name": "M60A3 TTS",
+        "type": "Land",
+        "nation": "USA",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/0/0b/GarageImage_M60A3_TTS.jpg/500px-GarageImage_M60A3_TTS.jpg"
+    },
+    {
+        "name": "XM-803",
+        "type": "Land",
+        "nation": "USA",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/7/72/GarageImage_XM-803.jpg/500px-GarageImage_XM-803.jpg"
+    },
+    {
+        "name": "MBT-70",
+        "type": "Land",
+        "nation": "USA",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/0/03/GarageImage_MBT-70.jpg/500px-GarageImage_MBT-70.jpg"
+    },
+    {
+        "name": "Imp.Chaparral",
+        "type": "Land",
+        "nation": "USA",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/1/17/GarageImage_Imp.Chaparral.jpg/500px-GarageImage_Imp.Chaparral.jpg"
+    },
+    {
+        "name": "F-104A",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/4/40/GarageImage_F-104A.jpg/1600px-GarageImage_F-104A.jpg"
+    },
+    {
+        "name": "F-104C",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/1/12/GarageImage_F-104C.jpg/1600px-GarageImage_F-104C.jpg"
+    },
+    {
+        "name": "F-86F-2",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/8/80/GarageImage_F-86F-2.jpg/1600px-GarageImage_F-86F-2.jpg"
+    },
+    {
+        "name": "F3H-2",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/c/c0/GarageImage_F3H-2.jpg/1600px-GarageImage_F3H-2.jpg"
+    },
+    {
+        "name": "A-4B",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/c/c5/GarageImage_A-4B.jpg/1600px-GarageImage_A-4B.jpg"
+    },
+    {
+        "name": "FJ-4B",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/6/69/GarageImage_FJ-4B.jpg/1600px-GarageImage_FJ-4B.jpg"
+    },
+    {
+        "name": "F-100D",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/8/82/GarageImage_F-100D.jpg/1600px-GarageImage_F-100D.jpg"
+    },
+    {
+        "name": "F8U-2",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/e/e5/GarageImage_F8U-2.jpg/1600px-GarageImage_F8U-2.jpg"
+    },
+    {
+        "name": "AV-8C",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/2/28/GarageImage_AV-8C.jpg/1600px-GarageImage_AV-8C.jpg"
+    },
+    {
+        "name": "AH-6M",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/d/d4/GarageImage_AH-6M.jpg/1600px-GarageImage_AH-6M.jpg"
+    },
+    {
+        "name": "AH-1F",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/1/1c/GarageImage_AH-1F.jpg/1600px-GarageImage_AH-1F.jpg"
+    },
+    {
+        "name": "OH-58D",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/6/60/GarageImage_OH-58D.jpg/1600px-GarageImage_OH-58D.jpg"
+    },
+    {
+        "name": "AH-64A",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/1/14/GarageImage_AH-64A.jpg/1600px-GarageImage_AH-64A.jpg"
+    },
+    {
+        "name": "USS Texas",
+        "type": "Sea",
+        "nation": "USA",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/4/44/GarageImage_USS_Texas.jpg/1600px-GarageImage_USS_Texas.jpg"
+    },
+    {
+        "name": "USS Nevada",
+        "type": "Sea",
+        "nation": "USA",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/9/96/GarageImage_USS_Nevada.jpg/1600px-GarageImage_USS_Nevada.jpg"
+    },
+    {
+        "name": "USS Alaska",
+        "type": "Sea",
+        "nation": "USA",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/a/a1/GarageImage_USS_Alaska.jpg/1600px-GarageImage_USS_Alaska.jpg"
+    },
+    {
+        "name": "USS Arizona",
+        "type": "Sea",
+        "nation": "USA",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/a/a7/GarageImage_USS_Arizona.jpg/1600px-GarageImage_USS_Arizona.jpg"
+    },
+    {
+        "name": "M3A3 Bradley",
+        "type": "Land",
+        "nation": "USA",
+        "rank": 7,
+        "image": "https://wiki.warthunder.com/images/thumb/0/0b/GarageImage_M3A3_Bradley.jpg/500px-GarageImage_M3A3_Bradley.jpg"
+    },
+    {
+        "name": "MIA1 HC",
+        "type": "Land",
+        "nation": "USA",
+        "rank": 7,
+        "image": "https://wiki.warthunder.com/images/thumb/6/60/GarageImage_M1A1_HC_Dozer.jpg/500px-GarageImage_M1A1_HC_Dozer.jpg"
+    },
+    {
+        "name": "M1 Abrams",
+        "type": "Land",
+        "nation": "USA",
+        "rank": 7,
+        "image": "https://wiki.warthunder.com/images/thumb/d/da/GarageImage_M1_Abrams.jpg/500px-GarageImage_M1_Abrams.jpg"
+    },
+    {
+        "name": "LAV-AD",
+        "type": "Land",
+        "nation": "USA",
+        "rank": 7,
+        "image": "https://wiki.warthunder.com/images/thumb/4/46/GarageImage_LAV-AD.jpg/500px-GarageImage_LAV-AD.jpg"
+    },
+    {
+        "name": "M1128",
+        "type": "Land",
+        "nation": "USA",
+        "rank": 7,
+        "image": "https://wiki.warthunder.com/images/thumb/6/6a/GarageImage_M1128_AddArmour.jpg/500px-GarageImage_M1128_AddArmour.jpg"
+    },
+    {
+        "name": "HSTV-L",
+        "type": "Land",
+        "nation": "USA",
+        "rank": 7,
+        "image": "https://wiki.warthunder.com/images/thumb/0/07/GarageImage_HSTV-L.jpg/500px-GarageImage_HSTV-L.jpg"
+    },
+    {
+        "name": "M1A1",
+        "type": "Land",
+        "nation": "USA",
+        "rank": 7,
+        "image": "https://wiki.warthunder.com/images/thumb/4/48/GarageImage_M1A1.jpg/500px-GarageImage_M1A1.jpg"
+    },
+    {
+        "name": "IPM1",
+        "type": "Land",
+        "nation": "USA",
+        "rank": 7,
+        "image": "https://wiki.warthunder.com/images/thumb/8/8d/GarageImage_IPM1.jpg/500px-GarageImage_IPM1.jpg"
+    },
+    {
+        "name": "XM975",
+        "type": "Land",
+        "nation": "USA",
+        "rank": 7,
+        "image": "https://wiki.warthunder.com/images/thumb/8/80/GarageImage_XM975.jpg/500px-GarageImage_XM975.jpg"
+    },
+    {
+        "name": "M1A2 Abrams",
+        "type": "Land",
+        "nation": "USA",
+        "rank": 7,
+        "image": "https://wiki.warthunder.com/images/thumb/9/9c/GarageImage_M1A2_Abrams.jpg/500px-GarageImage_M1A2_Abrams.jpg"
+    },
+    {
+        "name": "M1A2 SEP",
+        "type": "Land",
+        "nation": "USA",
+        "rank": 7,
+        "image": "https://wiki.warthunder.com/images/thumb/9/9b/GarageImage_M1A2_SEP.jpg/500px-GarageImage_M1A2_SEP.jpg"
+    },
+    {
+        "name": "XM1069",
+        "type": "Land",
+        "nation": "USA",
+        "rank": 7,
+        "image": "https://wiki.warthunder.com/images/thumb/6/62/GarageImage_XM1069.jpg/500px-GarageImage_XM1069.jpg"
+    },
+    {
+        "name": "F-5E",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 7,
+        "image": "https://wiki.warthunder.com/images/thumb/9/9d/GarageImage_F-5E.jpg/1600px-GarageImage_F-5E.jpg"
+    },
+    {
+        "name": "F-4C Phantom II",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 7,
+        "image": "https://wiki.warthunder.com/images/thumb/1/1f/GarageImage_F-4C_Phantom_II.jpg/1600px-GarageImage_F-4C_Phantom_II.jpg"
+    },
+    {
+        "name": "F-8E",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 7,
+        "image": "https://wiki.warthunder.com/images/thumb/3/3d/GarageImage_F-8E.jpg/1600px-GarageImage_F-8E.jpg"
+    },
+    {
+        "name": "A-10A Late",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 7,
+        "image": "https://wiki.warthunder.com/images/thumb/a/a6/GarageImage_A-10A_Late.jpg/1600px-GarageImage_A-10A_Late.jpg"
+    },
+    {
+        "name": "F-105D",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 7,
+        "image": "https://wiki.warthunder.com/images/thumb/9/97/GarageImage_F-105D.jpg/1600px-GarageImage_F-105D.jpg"
+    },
+    {
+        "name": "F-4E Phantom II",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 7,
+        "image": "https://wiki.warthunder.com/images/thumb/a/a5/GarageImage_F-4E_Phantom_II.jpg/1600px-GarageImage_F-4E_Phantom_II.jpg"
+    },
+    {
+        "name": "F-4J Phantom II",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 7,
+        "image": "https://wiki.warthunder.com/images/thumb/1/1c/GarageImage_F-4J_Phantom_II.jpg/1600px-GarageImage_F-4J_Phantom_II.jpg"
+    },
+    {
+        "name": "A-7D",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 7,
+        "image": "https://wiki.warthunder.com/images/thumb/1/10/GarageImage_A-7D.jpg/1600px-GarageImage_A-7D.jpg"
+    },
+    {
+        "name": "A-7E",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 7,
+        "image": "https://wiki.warthunder.com/images/thumb/6/67/GarageImage_A-7E.jpg/1600px-GarageImage_A-7E.jpg"
+    },
+    {
+        "name": "AH-64D",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 7,
+        "image": "https://wiki.warthunder.com/images/thumb/9/9d/GarageImage_AH-64D.jpg/1600px-GarageImage_AH-64D.jpg"
+    },
+    {
+        "name": "AH-1Z",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 7,
+        "image": "https://wiki.warthunder.com/images/thumb/3/38/GarageImage_AH-1Z.jpg/1600px-GarageImage_AH-1Z.jpg"
+    },
+    {
+        "name": "F-16A",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 8,
+        "image": "https://wiki.warthunder.com/images/thumb/8/8b/GarageImage_F-16A.jpg/1600px-GarageImage_F-16A.jpg"
+    },
+    {
+        "name": "F-16A ADF",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 8,
+        "image": "https://wiki.warthunder.com/images/thumb/6/68/GarageImage_F-16A_ADF.jpg/1600px-GarageImage_F-16A_ADF.jpg"
+    },
+    {
+        "name": "F-14A Early",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 8,
+        "image": "https://wiki.warthunder.com/images/thumb/0/01/GarageImage_F-14A_Early.jpg/1600px-GarageImage_F-14A_Early.jpg"
+    },
+    {
+        "name": "F-16C",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 8,
+        "image": "https://wiki.warthunder.com/images/thumb/9/9c/GarageImage_F-16C.jpg/1600px-GarageImage_F-16C.jpg"
+    },
+    {
+        "name": "F-14B",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 8,
+        "image": "https://wiki.warthunder.com/images/thumb/b/b5/GarageImage_F-14B.jpg/1600px-GarageImage_F-14B.jpg"
+    },
+    {
+        "name": "M1A2 SEP V2",
+        "type": "Land",
+        "nation": "USA",
+        "rank": 8,
+        "image": "https://wiki.warthunder.com/images/thumb/8/85/GarageImage_M1A2_SEP_V2.jpg/500px-GarageImage_M1A2_SEP_V2.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "F-15A",
+        "type": "Air",
+        "nation": "USA",
+        "rank": 8,
+        "image": "https://wiki.warthunder.com/images/thumb/6/6d/GarageImage_F-15A.jpg/500px-GarageImage_F-15A.jpg",
+        "captured": false,
+        "subNation": ""
+    }
+]

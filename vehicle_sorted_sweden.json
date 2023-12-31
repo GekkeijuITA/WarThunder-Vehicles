@@ -1,0 +1,1064 @@
+[
+    {
+        "name": "Strv m/31",
+        "type": "Land",
+        "nation": "Sweden",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/9/92/GarageImage_Strv_m31.jpg/500px-GarageImage_Strv_m31.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Strv m/38",
+        "type": "Land",
+        "nation": "Sweden",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/3/38/GarageImage_Strv_m38.jpg/500px-GarageImage_Strv_m38.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Pvlvv fm/42",
+        "type": "Land",
+        "nation": "Sweden",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/0/0d/GarageImage_Pvlvv_fm42.jpg/500px-GarageImage_Pvlvv_fm42.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Ikv 72",
+        "type": "Land",
+        "nation": "Sweden",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/b/b3/GarageImage_Ikv_72.jpg/500px-GarageImage_Ikv_72.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Vickers Mk.E",
+        "type": "Land",
+        "nation": "Sweden",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/f/f1/GarageImage_Vickers_Mk.E.jpg/500px-GarageImage_Vickers_Mk.E.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "BT-42",
+        "type": "Land",
+        "nation": "Sweden",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/2/23/GarageImage_BT-42.jpg/500px-GarageImage_BT-42.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Strv m/40L",
+        "type": "Land",
+        "nation": "Sweden",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/4/4c/GarageImage_Strv_m40L.jpg/500px-GarageImage_Strv_m40L.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Sav m/43 (1944)",
+        "type": "Land",
+        "nation": "Sweden",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/4/46/GarageImage_Sav_m43_%281944%29.jpg/500px-GarageImage_Sav_m43_%281944%29.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "T-28",
+        "type": "Land",
+        "nation": "Sweden",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/d/d4/GarageImage_T-28_%28Sweden%29.jpg/500px-GarageImage_T-28_%28Sweden%29.jpg",
+        "captured": true,
+        "subNation": ""
+    },
+    {
+        "name": "J8A",
+        "type": "Air",
+        "nation": "Sweden",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/e/ed/GarageImage_J8A.jpg/500px-GarageImage_J8A.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "J6B",
+        "type": "Air",
+        "nation": "Sweden",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/0/08/GarageImage_J6B.jpg/500px-GarageImage_J6B.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "S17BS",
+        "type": "Air",
+        "nation": "Sweden",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/8/87/GarageImage_S17BS.jpg/500px-GarageImage_S17BS.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "T 2",
+        "type": "Air",
+        "nation": "Sweden",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/6/64/GarageImage_T_2.jpg/500px-GarageImage_T_2.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Fokker D.XXI-3",
+        "type": "Air",
+        "nation": "Sweden",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/8/81/GarageImage_Fokker_D.XXI-3_%28Sweden%29.jpg/500px-GarageImage_Fokker_D.XXI-3_%28Sweden%29.jpg",
+        "captured": true,
+        "subNation": ""
+    },
+    {
+        "name": "J11",
+        "type": "Air",
+        "nation": "Sweden",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/0/0d/GarageImage_J11.jpg/500px-GarageImage_J11.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "B17B",
+        "type": "Air",
+        "nation": "Sweden",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/3/3e/GarageImage_B17B.jpg/500px-GarageImage_B17B.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "B17A",
+        "type": "Air",
+        "nation": "Sweden",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/6/64/GarageImage_B17A.jpg/500px-GarageImage_B17A.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "B3C",
+        "type": "Air",
+        "nation": "Sweden",
+        "rank": 1,
+        "image": "https://wiki.warthunder.com/images/thumb/c/ce/GarageImage_B3C.jpg/500px-GarageImage_B3C.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Strv m/41 S-II",
+        "type": "Land",
+        "nation": "Sweden",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/9/9a/GarageImage_Strv_m41_S-II.jpg/500px-GarageImage_Strv_m41_S-II.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Lago I",
+        "type": "Land",
+        "nation": "Sweden",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/e/e5/GarageImage_Lago_I.jpg/500px-GarageImage_Lago_I.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Pbv 301",
+        "type": "Land",
+        "nation": "Sweden",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/5/58/GarageImage_Pbv_301.jpg/500px-GarageImage_Pbv_301.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Spj fm/43-44",
+        "type": "Land",
+        "nation": "Sweden",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/4/43/GarageImage_fm43-44.jpg/500px-GarageImage_fm43-44.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Pvkv III",
+        "type": "Land",
+        "nation": "Sweden",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/d/d8/GarageImage_Pvkv_III.jpg/500px-GarageImage_Pvkv_III.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Strv m/42 EH",
+        "type": "Land",
+        "nation": "Sweden",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/1/1e/GarageImage_Strv_m42_EH.jpg/500px-GarageImage_Strv_m42_EH.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Lvtdgb m/40",
+        "type": "Land",
+        "nation": "Sweden",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/7/76/GarageImage_Lvtdgb_m40.jpg/500px-GarageImage_Lvtdgb_m40.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Sav m/43 (1946)",
+        "type": "Land",
+        "nation": "Sweden",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/4/46/GarageImage_Sav_m43_%281946%29.jpg/500px-GarageImage_Sav_m43_%281946%29.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "J20",
+        "type": "Air",
+        "nation": "Sweden",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/3/38/GarageImage_J20.jpg/500px-GarageImage_J20.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "B18A",
+        "type": "Air",
+        "nation": "Sweden",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/1/1b/GarageImage_B18A.jpg/500px-GarageImage_B18A.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "B-239",
+        "type": "Air",
+        "nation": "Sweden",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/7/75/GarageImage_B-239_%28Sweden%29.jpg/500px-GarageImage_B-239_%28Sweden%29.jpg",
+        "captured": true,
+        "subNation": ""
+    },
+    {
+        "name": "J22-A",
+        "type": "Air",
+        "nation": "Sweden",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/9/9a/GarageImage_J22-A.jpg/500px-GarageImage_J22-A.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Ju 88 A-4",
+        "type": "Air",
+        "nation": "Sweden",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/3/30/GarageImage_Ju_88_A-4_%28Sweden%29.jpg/500px-GarageImage_Ju_88_A-4_%28Sweden%29.jpg",
+        "captured": true,
+        "subNation": ""
+    },
+    {
+        "name": "Hurricane Mk I/L",
+        "type": "Air",
+        "nation": "Sweden",
+        "rank": 2,
+        "image": "https://wiki.warthunder.com/images/thumb/3/3a/GarageImage_Hurricane_Mk_IL_%28Sweden%29.jpg/500px-GarageImage_Hurricane_Mk_IL_%28Sweden%29.jpg",
+        "captured": true,
+        "subNation": ""
+    },
+    {
+        "name": "Pvkv II",
+        "type": "Land",
+        "nation": "Sweden",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/b/b1/GarageImage_Pvkv_II.jpg/500px-GarageImage_Pvkv_II.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Pvkv IV",
+        "type": "Land",
+        "nation": "Sweden",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/8/89/GarageImage_Pvkv_IV.jpg/500px-GarageImage_Pvkv_IV.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "L-62 ANTI II",
+        "type": "Land",
+        "nation": "Sweden",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/3/37/GarageImage_L-62_ANTI_II.jpg/500px-GarageImage_L-62_ANTI_II.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Pvkv m/43 (1946)",
+        "type": "Land",
+        "nation": "Sweden",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/e/ef/GarageImage_Pvkv_m43_%281946%29.jpg/500px-GarageImage_Pvkv_m43_%281946%29.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Ikv 103",
+        "type": "Land",
+        "nation": "Sweden",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/f/f7/GarageImage_Ikv_103.jpg/500px-GarageImage_Ikv_103.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "T-34",
+        "type": "Land",
+        "nation": "Sweden",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/8/86/GarageImage_T-34_%28Sweden%29.jpg/500px-GarageImage_T-34_%28Sweden%29.jpg",
+        "captured": true,
+        "subNation": ""
+    },
+    {
+        "name": "Pz.IV",
+        "type": "Land",
+        "nation": "Sweden",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/9/94/GarageImage_Pz.IV_%28Sweden%29.jpg/500px-GarageImage_Pz.IV_%28Sweden%29.jpg",
+        "captured": true,
+        "subNation": ""
+    },
+    {
+        "name": "Strv m/42 DT",
+        "type": "Land",
+        "nation": "Sweden",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/d/dc/GarageImage_Delat_Torn.jpg/500px-GarageImage_Delat_Torn.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Pvkv m/43 (1963)",
+        "type": "Land",
+        "nation": "Sweden",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/6/68/GarageImage_Pvkv_m43_%281963%29.jpg/500px-GarageImage_Pvkv_m43_%281963%29.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "PT-76",
+        "type": "Land",
+        "nation": "Sweden",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/3/33/GarageImage_PT-76_%28Sweden%29.jpg/500px-GarageImage_PT-76_%28Sweden%29.jpg",
+        "captured": true,
+        "subNation": ""
+    },
+    {
+        "name": "Comet I",
+        "type": "Land",
+        "nation": "Sweden",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/c/c8/GarageImage_Comet_I_%28Sweden%29.jpg/500px-GarageImage_Comet_I_%28Sweden%29.jpg",
+        "captured": true,
+        "subNation": ""
+    },
+    {
+        "name": "J22-B",
+        "type": "Air",
+        "nation": "Sweden",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/b/b6/GarageImage_J22-B.jpg/500px-GarageImage_J22-B.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "B18B",
+        "type": "Air",
+        "nation": "Sweden",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/f/f1/GarageImage_B18B.jpg/500px-GarageImage_B18B.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "J26",
+        "type": "Air",
+        "nation": "Sweden",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/8/8b/GarageImage_J26.jpg/500px-GarageImage_J26.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "T18B",
+        "type": "Air",
+        "nation": "Sweden",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/4/46/GarageImage_T18B.jpg/500px-GarageImage_T18B.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "T18B (57)",
+        "type": "Air",
+        "nation": "Sweden",
+        "rank": 3,
+        "image": "https://wiki.warthunder.com/images/thumb/2/21/GarageImage_T18B_%2857%29.jpg/500px-GarageImage_T18B_%2857%29.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Strv 74",
+        "type": "Land",
+        "nation": "Sweden",
+        "rank": 4,
+        "image": "https://wiki.warthunder.com/images/thumb/3/3b/GarageImage_Strv_74.jpg/500px-GarageImage_Strv_74.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Lvkv 42",
+        "type": "Land",
+        "nation": "Sweden",
+        "rank": 4,
+        "image": "https://wiki.warthunder.com/images/thumb/9/98/GarageImage_Lvkv_42.jpg/500px-GarageImage_Lvkv_42.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Bkan 1C",
+        "type": "Land",
+        "nation": "Sweden",
+        "rank": 4,
+        "image": "https://wiki.warthunder.com/images/thumb/2/22/GarageImage_Bkan_1C.jpg/500px-GarageImage_Bkan_1C.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "T-34-85",
+        "type": "Land",
+        "nation": "Sweden",
+        "rank": 4,
+        "image": "https://wiki.warthunder.com/images/thumb/7/76/GarageImage_T-34-85_%28Sweden%29.jpg/500px-GarageImage_T-34-85_%28Sweden%29.jpg",
+        "captured": true,
+        "subNation": ""
+    },
+    {
+        "name": "Charioteer Mk VII",
+        "type": "Land",
+        "nation": "Sweden",
+        "rank": 4,
+        "image": "https://wiki.warthunder.com/images/thumb/9/9f/GarageImage_Charioteer_Mk_VII_%28Sweden%29.jpg/500px-GarageImage_Charioteer_Mk_VII_%28Sweden%29.jpg",
+        "captured": true,
+        "subNation": ""
+    },
+    {
+        "name": "J21A-1",
+        "type": "Air",
+        "nation": "Sweden",
+        "rank": 4,
+        "image": "https://wiki.warthunder.com/images/thumb/8/8a/GarageImage_J21A-1.jpg/500px-GarageImage_J21A-1.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "J21A-2",
+        "type": "Air",
+        "nation": "Sweden",
+        "rank": 4,
+        "image": "https://wiki.warthunder.com/images/thumb/9/99/GarageImage_J21A-2.jpg/500px-GarageImage_J21A-2.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "A21A-3",
+        "type": "Air",
+        "nation": "Sweden",
+        "rank": 4,
+        "image": "https://wiki.warthunder.com/images/thumb/3/37/GarageImage_A21A-3.jpg/500px-GarageImage_A21A-3.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Bf 109 G-2",
+        "type": "Air",
+        "nation": "Sweden",
+        "rank": 4,
+        "image": "https://wiki.warthunder.com/images/thumb/3/35/GarageImage_Bf_109_G-2_%28Sweden%29.jpg/500px-GarageImage_Bf_109_G-2_%28Sweden%29.jpg",
+        "captured": true,
+        "subNation": ""
+    },
+    {
+        "name": "Bf 109 G-6 Erla",
+        "type": "Air",
+        "nation": "Sweden",
+        "rank": 4,
+        "image": "https://wiki.warthunder.com/images/thumb/3/38/GarageImage_Bf_109_G-6_Erla_%28Sweden%29.jpg/500px-GarageImage_Bf_109_G-6_Erla_%28Sweden%29.jpg",
+        "captured": true,
+        "subNation": ""
+    },
+    {
+        "name": "Pbv 501",
+        "type": "Land",
+        "nation": "Sweden",
+        "rank": 4,
+        "image": "https://wiki.warthunder.com/images/thumb/e/e3/GarageImage_Pbv_501.jpg/500px-GarageImage_Pbv_501.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Ikv 91",
+        "type": "Land",
+        "nation": "Sweden",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/8/8d/GarageImage_Ikv_91.jpg/500px-GarageImage_Ikv_91.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Strv 81",
+        "type": "Land",
+        "nation": "Sweden",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/a/a4/GarageImage_Strv_81.jpg/500px-GarageImage_Strv_81.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "ZSU-57-2",
+        "type": "Land",
+        "nation": "Sweden",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/a/a4/GarageImage_ZSU-57-2_%28Sweden%29.jpg/500px-GarageImage_ZSU-57-2_%28Sweden%29.jpg",
+        "captured": true,
+        "subNation": ""
+    },
+    {
+        "name": "Pvrbv 551",
+        "type": "Land",
+        "nation": "Sweden",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/4/4c/GarageImage_Pvrbv_551.jpg/500px-GarageImage_Pvrbv_551.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "T-54",
+        "type": "Land",
+        "nation": "Sweden",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/f/f6/GarageImage_T-54_%28Sweden%29.jpg/500px-GarageImage_T-54_%28Sweden%29.jpg",
+        "captured": true,
+        "subNation": ""
+    },
+    {
+        "name": "U-SH 405",
+        "type": "Land",
+        "nation": "Sweden",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/3/36/GarageImage_U-SH_405.jpg/500px-GarageImage_U-SH_405.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Strv 101",
+        "type": "Land",
+        "nation": "Sweden",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/b/be/GarageImage_Strv_101.jpg/500px-GarageImage_Strv_101.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Strv 103A",
+        "type": "Land",
+        "nation": "Sweden",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/b/b8/GarageImage_Strv_103A.jpg/500px-GarageImage_Strv_103A.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "VEAK 40",
+        "type": "Land",
+        "nation": "Sweden",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/0/04/GarageImage_VEAK_40.jpg/500px-GarageImage_VEAK_40.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "J21RA",
+        "type": "Air",
+        "nation": "Sweden",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/a/a6/GarageImage_J21RA.jpg/500px-GarageImage_J21RA.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "A21RB",
+        "type": "Air",
+        "nation": "Sweden",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/8/87/GarageImage_A21RB.jpg/500px-GarageImage_A21RB.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "SK60B",
+        "type": "Air",
+        "nation": "Sweden",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/d/d2/GarageImage_SK60B.jpg/500px-GarageImage_SK60B.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "A28B",
+        "type": "Air",
+        "nation": "Sweden",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/9/90/GarageImage_A28B.jpg/500px-GarageImage_A28B.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Vampire FB 52A",
+        "type": "Air",
+        "nation": "Sweden",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/1/1d/GarageImage_Vampire_FB_52A_%28Sweden%29.jpg/500px-GarageImage_Vampire_FB_52A_%28Sweden%29.jpg",
+        "captured": true,
+        "subNation": ""
+    },
+    {
+        "name": "J29A",
+        "type": "Air",
+        "nation": "Sweden",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/8/85/GarageImage_J29A.jpg/500px-GarageImage_J29A.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "A29B",
+        "type": "Air",
+        "nation": "Sweden",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/e/ec/GarageImage_A29B.jpg/500px-GarageImage_A29B.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "SAAB-105G",
+        "type": "Air",
+        "nation": "Sweden",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/e/e3/GarageImage_SAAB-105G.jpg/500px-GarageImage_SAAB-105G.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "HKP3C",
+        "type": "Air",
+        "nation": "Sweden",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/a/aa/GarageImage_HKP3C.jpg/500px-GarageImage_HKP3C.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "HKP2",
+        "type": "Air",
+        "nation": "Sweden",
+        "rank": 5,
+        "image": "https://wiki.warthunder.com/images/thumb/1/16/GarageImage_HKP2.jpg/500px-GarageImage_HKP2.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Ikv 91-105",
+        "type": "Land",
+        "nation": "Sweden",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/4/4c/GarageImage_Ikv_91-105.jpg/500px-GarageImage_Ikv_91-105.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Strv 104",
+        "type": "Land",
+        "nation": "Sweden",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/5/5c/GarageImage_Strv_104.jpg/500px-GarageImage_Strv_104.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Strv 103\u00d0\u00a1",
+        "type": "Land",
+        "nation": "Sweden",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/1/1e/GarageImage_Strv_103C.jpg/500px-GarageImage_Strv_103C.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "ItPsV 90",
+        "type": "Land",
+        "nation": "Sweden",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/5/5b/GarageImage_ItPsV_90.jpg/500px-GarageImage_ItPsV_90.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "UDES 33",
+        "type": "Land",
+        "nation": "Sweden",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/c/c0/GarageImage_UDES_33.jpg/500px-GarageImage_UDES_33.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Pbv 302 (BILL)",
+        "type": "Land",
+        "nation": "Sweden",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/3/31/GarageImage_Pbv_302_%28BILL%29.jpg/500px-GarageImage_Pbv_302_%28BILL%29.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "T-55M",
+        "type": "Land",
+        "nation": "Sweden",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/f/fc/GarageImage_T-55M_%28Sweden%29.jpg/500px-GarageImage_T-55M_%28Sweden%29.jpg",
+        "captured": true,
+        "subNation": ""
+    },
+    {
+        "name": "CV9030FIN",
+        "type": "Land",
+        "nation": "Sweden",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/c/c1/GarageImage_CV9030FIN.jpg/500px-GarageImage_CV9030FIN.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Strf 9040B",
+        "type": "Land",
+        "nation": "Sweden",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/e/eb/GarageImage_Strf_9040B.jpg/500px-GarageImage_Strf_9040B.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Strv 105",
+        "type": "Land",
+        "nation": "Sweden",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/8/8d/GarageImage_Strv_105.jpg/500px-GarageImage_Strv_105.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Lvrbv 701",
+        "type": "Land",
+        "nation": "Sweden",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/d/d8/GarageImage_Lvrbv_701.jpg/500px-GarageImage_Lvrbv_701.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "T-72M1",
+        "type": "Land",
+        "nation": "Sweden",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/8/85/GarageImage_T-72M1_%28Sweden%29.jpg/500px-GarageImage_T-72M1_%28Sweden%29.jpg",
+        "captured": true,
+        "subNation": ""
+    },
+    {
+        "name": "J29F",
+        "type": "Air",
+        "nation": "Sweden",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/f/f2/GarageImage_J29F.jpg/500px-GarageImage_J29F.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "A32A",
+        "type": "Air",
+        "nation": "Sweden",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/8/8d/GarageImage_A32A.jpg/500px-GarageImage_A32A.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "J34",
+        "type": "Air",
+        "nation": "Sweden",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/7/7b/GarageImage_J34.jpg/500px-GarageImage_J34.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "J32B",
+        "type": "Air",
+        "nation": "Sweden",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/a/a7/GarageImage_J32B.jpg/500px-GarageImage_J32B.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "HKP9A",
+        "type": "Air",
+        "nation": "Sweden",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/4/4f/GarageImage_HKP9A.jpg/500px-GarageImage_HKP9A.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "HKP9A (FC)",
+        "type": "Air",
+        "nation": "Sweden",
+        "rank": 6,
+        "image": "https://wiki.warthunder.com/images/thumb/a/a9/GarageImage_HKP9A_%28FC%29.jpg/500px-GarageImage_HKP9A_%28FC%29.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Strf 9040C",
+        "type": "Land",
+        "nation": "Sweden",
+        "rank": 7,
+        "image": "https://wiki.warthunder.com/images/thumb/a/a3/GarageImage_Strf_9040C.jpg/500px-GarageImage_Strf_9040C.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Strv 121",
+        "type": "Land",
+        "nation": "Sweden",
+        "rank": 7,
+        "image": "https://wiki.warthunder.com/images/thumb/5/5b/GarageImage_Strv_121.jpg/500px-GarageImage_Strv_121.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Lvkv 9040C",
+        "type": "Land",
+        "nation": "Sweden",
+        "rank": 7,
+        "image": "https://wiki.warthunder.com/images/thumb/c/c1/GarageImage_Lvkv_9040C.jpg/500px-GarageImage_Lvkv_9040C.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "ASRAD-R",
+        "type": "Land",
+        "nation": "Sweden",
+        "rank": 7,
+        "image": "https://wiki.warthunder.com/images/thumb/7/7c/GarageImage_ASRAD-R.jpg/500px-GarageImage_ASRAD-R.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Strf 9040 BILL",
+        "type": "Land",
+        "nation": "Sweden",
+        "rank": 7,
+        "image": "https://wiki.warthunder.com/images/thumb/f/ff/GarageImage_Strf_9040_BILL.jpg/500px-GarageImage_Strf_9040_BILL.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Leopard 2A4",
+        "type": "Land",
+        "nation": "Sweden",
+        "rank": 7,
+        "image": "https://wiki.warthunder.com/images/thumb/8/87/GarageImage_Leopard_2A4_%28Sweden%29.jpg/500px-GarageImage_Leopard_2A4_%28Sweden%29.jpg",
+        "captured": true,
+        "subNation": ""
+    },
+    {
+        "name": "CV 90120",
+        "type": "Land",
+        "nation": "Sweden",
+        "rank": 7,
+        "image": "https://wiki.warthunder.com/images/thumb/a/a6/GarageImage_CV_90120.jpg/500px-GarageImage_CV_90120.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Strv 122A",
+        "type": "Land",
+        "nation": "Sweden",
+        "rank": 7,
+        "image": "https://wiki.warthunder.com/images/thumb/9/9c/GarageImage_Strv_122A.jpg/500px-GarageImage_Strv_122A.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Strv 122B PLSS",
+        "type": "Land",
+        "nation": "Sweden",
+        "rank": 7,
+        "image": "https://wiki.warthunder.com/images/thumb/c/c4/GarageImage_Strv_122B_PLSS.jpg/500px-GarageImage_Strv_122B_PLSS.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "ItO 90M",
+        "type": "Land",
+        "nation": "Sweden",
+        "rank": 7,
+        "image": "https://wiki.warthunder.com/images/thumb/1/14/GarageImage_ItO_90M.jpg/500px-GarageImage_ItO_90M.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Leopard 2A6",
+        "type": "Land",
+        "nation": "Sweden",
+        "rank": 7,
+        "image": "https://wiki.warthunder.com/images/thumb/e/ea/GarageImage_Leopard_2A6_%28Sweden%29.jpg/500px-GarageImage_Leopard_2A6_%28Sweden%29.jpg",
+        "captured": true,
+        "subNation": ""
+    },
+    {
+        "name": "J35D",
+        "type": "Air",
+        "nation": "Sweden",
+        "rank": 7,
+        "image": "https://wiki.warthunder.com/images/thumb/b/b6/GarageImage_J35D.jpg/500px-GarageImage_J35D.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "AJ37",
+        "type": "Air",
+        "nation": "Sweden",
+        "rank": 7,
+        "image": "https://wiki.warthunder.com/images/thumb/4/4d/GarageImage_AJ37.jpg/500px-GarageImage_AJ37.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "MiG-21bis",
+        "type": "Air",
+        "nation": "Sweden",
+        "rank": 7,
+        "image": "https://wiki.warthunder.com/images/thumb/f/f6/GarageImage_MiG-21bis_%28Sweden%29.jpg/500px-GarageImage_MiG-21bis_%28Sweden%29.jpg",
+        "captured": true,
+        "subNation": ""
+    },
+    {
+        "name": "JA37C",
+        "type": "Air",
+        "nation": "Sweden",
+        "rank": 7,
+        "image": "https://wiki.warthunder.com/images/thumb/2/2a/GarageImage_JA37C.jpg/500px-GarageImage_JA37C.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "AJS37",
+        "type": "Air",
+        "nation": "Sweden",
+        "rank": 7,
+        "image": "https://wiki.warthunder.com/images/thumb/7/71/GarageImage_AJS37.jpg/500px-GarageImage_AJS37.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "AHS",
+        "type": "Air",
+        "nation": "Sweden",
+        "rank": 7,
+        "image": "https://wiki.warthunder.com/images/thumb/1/1a/GarageImage_AHS.jpg/500px-GarageImage_AHS.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Strv 122B+",
+        "type": "Land",
+        "nation": "Sweden",
+        "rank": 8,
+        "image": "https://wiki.warthunder.com/images/thumb/9/9e/GarageImage_Strv_122B_%28Sweden%29.jpg/500px-GarageImage_Strv_122B_%28Sweden%29.jpg",
+        "captured": true,
+        "subNation": ""
+    },
+    {
+        "name": "JA37D",
+        "type": "Air",
+        "nation": "Sweden",
+        "rank": 8,
+        "image": "https://wiki.warthunder.com/images/thumb/0/03/GarageImage_JA37D.jpg/500px-GarageImage_JA37D.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "JAS39A",
+        "type": "Air",
+        "nation": "Sweden",
+        "rank": 8,
+        "image": "https://wiki.warthunder.com/images/thumb/f/fb/GarageImage_JAS39A.jpg/500px-GarageImage_JAS39A.jpg",
+        "captured": false,
+        "subNation": ""
+    },
+    {
+        "name": "Strv 122B+",
+        "type": "Land",
+        "nation": "Sweden",
+        "rank": 8,
+        "image": "https://wiki.warthunder.com/images/thumb/9/9e/GarageImage_Strv_122B_%28Sweden%29.jpg/500px-GarageImage_Strv_122B_%28Sweden%29.jpg",
+        "captured": true,
+        "subNation": ""
+    },
+    {
+        "name": "JAS39A",
+        "type": "Air",
+        "nation": "Sweden",
+        "rank": 8,
+        "image": "https://wiki.warthunder.com/images/thumb/f/fb/GarageImage_JAS39A.jpg/500px-GarageImage_JAS39A.jpg",
+        "captured": false,
+        "subNation": ""
+    }
+]
